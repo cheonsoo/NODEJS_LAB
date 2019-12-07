@@ -1,0 +1,119 @@
+IDC@hsgwportal01APP 8:01 AM
+Fri, 29 Nov 2019 08:01:25 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Fri, 29 Nov 2019 09:01:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+11월 29 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:01 AM
+Fri, 29 Nov 2019 10:01:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 29 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:01 AM
+Fri, 29 Nov 2019 11:01:13 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 1:38 PM
+Fri, 29 Nov 2019 13:38:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 01:38:14 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:40 PM
+Fri, 29 Nov 2019 14:40:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 29 02:39:52 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 3:48 PM
+Fri, 29 Nov 2019 15:48:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 03:48:25 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:50 PM
+Fri, 29 Nov 2019 16:50:45 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 04:50:43 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 29 Nov 2019 16:51:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 04:50:58 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Fri, 29 Nov 2019 17:05:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 29 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 29 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 5:31 PM
+Fri, 29 Nov 2019 17:31:56 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 05:31:04 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal01APP 5:43 PM
+Fri, 29 Nov 2019 17:42:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 05:42:02 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 6:05 PM
+Fri, 29 Nov 2019 18:05:05 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 29 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:58 PM
+Fri, 29 Nov 2019 18:58:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 29 06:58:13 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+IDC@hsgwmap01APP 6:59 PM
+Fri, 29 Nov 2019 18:59:06 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+18:58:24.654 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+18:58:28.356 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+18:58:28.408 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+18:58:43.118 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 7:12 PM
+Fri, 29 Nov 2019 19:12:09 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+19:11:37.922 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:11:37.926 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:11:37.963 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:11:37.969 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 7:17 PM
+Fri, 29 Nov 2019 19:17:10 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+19:16:24.321 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:16:24.328 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:16:24.370 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:16:24.374 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 7:33 PM
+Fri, 29 Nov 2019 19:33:14 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+19:33:00.681 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:33:00.683 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:33:00.723 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:33:00.730 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 7:47 PM
+Fri, 29 Nov 2019 19:47:18 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+19:47:06.735 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:47:06.736 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:47:06.779 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:47:06.785 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 7:55 PM
+Fri, 29 Nov 2019 19:55:20 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+19:55:16.726 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:55:16.729 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:55:16.775 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+19:55:16.781 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 8:08 PM
+Fri, 29 Nov 2019 20:08:24 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+20:08:10.044 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+20:08:10.059 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+20:08:10.082 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+20:08:10.105 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+ Show more
+Fri, 29 Nov 2019 20:09:24 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+20:08:44.014 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB
+20:08:44.053 [ajp-bio-7009-exec-19] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21449 || Page : 1 || folderId : URB

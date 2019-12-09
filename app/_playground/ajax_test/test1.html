@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+  <title></title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <style></style>
+  <script>
+      function getData() {
+        const options = {
+          url: "http://ec2-18-217-222-56.us-east-2.compute.amazonaws.com:9201/monitoring/slack/_search",
+          type: "POST",
+          // dataType: "jsonp",
+          // jsonpCallback: function(data) {
+          //   debugger;
+          // },
+          beforeSend : function(xhr){
+              // xhr.setRequestHeader("Content-type", "application/json");
+              // xhr.setRequestHeader("Accept", "*");
+              // xhr.setRequestHeader("Host", "ec2-18-217-222-56.us-east-2.compute.amazonaws.com:9201");
+              // xhr.setRequestHeader("Origin", "http://localhost");
+              xhr.setRequestHeader("Access-Control-Allow-Origin", "*");
+              // xhr.setRequestHeader("User-Agent", "PostmanRuntime/7.20.1");
+              // xhr.setRequestHeader("Cache-Control", "no-cache");
+              // xhr.setRequestHeader("Postman-Token", "b6c7ec3d-46bf-4d38-a4e2-3f62730bbf2f");
+              // xhr.setRequestHeader("Accept-Encoding", "gzip, deflate");
+              // xhr.setRequestHeader("Content-Length", "80");
+              // xhr.setRequestHeader("Connection", "keep-alive");
+              // xhr.setRequestHeader("","");
+          },
+          data: {
+            "aggs": {
+              "aggs_name": {
+                "terms": {
+                  "field": "errType"
+                }
+              }
+            }
+          },
+          success: function(response, status, data) {
+            console.log('success');
+          },
+          error: function(response, status, error) {
+            console.log('error');
+          }
+        };
+
+        $.ajax(options);
+      }
+    </script>
+</head>
+
+<body onLoad="getData()">
+
+</body>
+</html>

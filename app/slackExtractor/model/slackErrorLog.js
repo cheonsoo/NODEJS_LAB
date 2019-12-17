@@ -7,4 +7,4 @@ const SlackErrorLogSchema = new mongoose.Schema({
 });
 
 /* single name of model, schema, specific name of target collection */
-module.exports = mongoose.model('slackErrorLog', SlackErrorLogSchema, 'slackErrorLogTest');
+module.exports = mongoose.model('slackErrorLog', SlackErrorLogSchema, 'slackErrorLog');

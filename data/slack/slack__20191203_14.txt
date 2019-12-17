@@ -1,0 +1,1616 @@
+IDC@hsgwportal02APP 8:01 AM
+Tue, 03 Dec 2019 08:01:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 8:58 AM
+Tue, 03 Dec 2019 08:58:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 08:58:22 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 03 Dec 2019 09:01:44 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 09:01:04 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 03 09:01:04 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Tue, 03 Dec 2019 09:01:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 09:01:33 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:12 AM
+Tue, 03 Dec 2019 09:12:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 09:11:55 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 03 09:12:04 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 9:42 AM
+Tue, 03 Dec 2019 09:42:03 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 09:41:16 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+12월 03 09:41:16 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 10:01 AM
+Tue, 03 Dec 2019 10:01:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 03 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:01 AM
+Tue, 03 Dec 2019 11:01:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:09 AM
+Tue, 03 Dec 2019 11:09:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 11:08:45 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+12월 03 11:08:45 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 1:07 PM
+Tue, 03 Dec 2019 13:07:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 01:07:15 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 03 Dec 2019 13:09:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 01:09:23 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal02APP 1:58 PM
+Tue, 03 Dec 2019 13:58:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 01:57:50 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:09 PM
+Tue, 03 Dec 2019 14:09:08 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:08:37 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 03 02:08:52 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 03 Dec 2019 14:12:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:11:12 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:24 PM
+Tue, 03 Dec 2019 14:24:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:23:49 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Tue, 03 Dec 2019 14:26:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:25:47 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 03 Dec 2019 14:27:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:26:15 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:38 PM
+Tue, 03 Dec 2019 14:38:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:37:55 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:59 PM
+Tue, 03 Dec 2019 14:59:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 02:58:36 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:09 PM
+Tue, 03 Dec 2019 15:09:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 03:08:44 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           17. ResultSet.getString(SENDER_USER_MOBILE)
+IDC@hsgwportal02APP 3:22 PM
+Tue, 03 Dec 2019 15:22:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 03:21:39 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 4:42 PM
+Tue, 03 Dec 2019 16:42:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 04:41:51 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:52 PM
+Tue, 03 Dec 2019 16:52:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 04:52:44 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:56 PM
+Tue, 03 Dec 2019 16:55:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 04:55:22 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Tue, 03 Dec 2019 16:56:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 04:56:51 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal02APP 5:01 PM
+Tue, 03 Dec 2019 17:01:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 05:01:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 5:06 PM
+Tue, 03 Dec 2019 17:06:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 05:05:02 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 03 05:05:02 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 5:11 PM
+Tue, 03 Dec 2019 17:11:56 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 05:11:43 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 5:31 PM
+Tue, 03 Dec 2019 17:31:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 05:30:37 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwmap02APP 5:35 PM
+Tue, 03 Dec 2019 17:35:43 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:34:49.927 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:35:02.496 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:35:28.101 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:35:28.106 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+Tue, 03 Dec 2019 17:37:43 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:36:56.657 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+IDC@hsgwportal02APP 5:42 PM
+Tue, 03 Dec 2019 17:42:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 05:41:35 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwmap02APP 5:42 PM
+Tue, 03 Dec 2019 17:42:45 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:41:53.449 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:41:53.451 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:41:53.461 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:41:53.496 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal02APP 5:44 PM
+Tue, 03 Dec 2019 17:44:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 03 05:43:42 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 03 05:43:59 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwmap02APP 5:44 PM
+Tue, 03 Dec 2019 17:44:45 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:44:34.724 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:44:34.726 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:44:34.727 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:44:34.767 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+Tue, 03 Dec 2019 17:48:46 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:47:56.776 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:47:56.783 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:47:56.793 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:47:56.829 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 5:54 PM
+Tue, 03 Dec 2019 17:54:48 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+17:53:53.884 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:53:53.886 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:53:53.927 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+17:53:53.929 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 6:03 PM
+Tue, 03 Dec 2019 18:03:50 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:03:29.351 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:03:29.357 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:03:29.385 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:03:29.402 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 6:05 PM
+Tue, 03 Dec 2019 18:05:17 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 03 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 03 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwmap02APP 6:05 PM
+Tue, 03 Dec 2019 18:05:51 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:05:47.891 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:05:47.893 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:05:47.894 [ajp-bio-7009-exec-42] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:05:47.937 [ajp-bio-7009-exec-35] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 6:17 PM
+Tue, 03 Dec 2019 18:17:54 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:17:04.878 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+18:17:04.929 [ajp-bio-7009-exec-34] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 21957 || Page : 1 || folderId : URB
+IDC@hsgwportal02APP 8:01 AM
+Wed, 04 Dec 2019 08:01:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:02 AM
+Wed, 04 Dec 2019 09:02:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 04 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:37 AM
+Wed, 04 Dec 2019 09:37:21 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 09:36:59 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+IDC@hsgwportal02APP 9:44 AM
+Wed, 04 Dec 2019 09:44:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 09:43:36 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22366
+12월 04 09:43:36 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23305
+IDC@hsgwportal02APP 9:57 AM
+Wed, 04 Dec 2019 09:57:17 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 09:56:29 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 10:01 AM
+Wed, 04 Dec 2019 10:01:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 04 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 10:17 AM
+Wed, 04 Dec 2019 10:17:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:16:39 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+12월 04 10:16:39 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+Wed, 04 Dec 2019 10:18:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:17:25 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+12월 04 10:17:25 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal02APP 10:29 AM
+Wed, 04 Dec 2019 10:29:25 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:28:30 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 04 10:28:52 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 04 10:29:09 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+...
+IDC@hsgwportal01APP 10:33 AM
+Wed, 04 Dec 2019 10:33:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 10:33:21 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           28. ResultSet.next()
+12월 04 10:33:29 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           3. ResultSet.next()
+12월 04 10:33:30 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           28. ResultSet.next()
+12월 04 10:33:30 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           26. ResultSet.next()
+ Show more
+IDC@hsgwportal02APP 10:34 AM
+Wed, 04 Dec 2019 10:34:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:34:05 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           17. ResultSet.next()
+IDC@hsgwportal01APP 10:34 AM
+Wed, 04 Dec 2019 10:34:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 10:34:10 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           30. ResultSet.next()
+IDC@hsgwportal02APP 10:48 AM
+Wed, 04 Dec 2019 10:48:00 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+IDC@hsgwportal01APP 10:48 AM
+Wed, 04 Dec 2019 10:48:00 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 10:48:10 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 24703
+IDC@hsgwportal02APP 10:48 AM
+Wed, 04 Dec 2019 10:48:10 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 9028
+IDC@hsgwportal02APP 11:01 AM
+Wed, 04 Dec 2019 11:01:34 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:06 AM
+Wed, 04 Dec 2019 11:06:35 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+IDC@hsgwportal02APP 11:06 AM
+Wed, 04 Dec 2019 11:06:45 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+IDC@hsgwportal01APP 11:06 AM
+Wed, 04 Dec 2019 11:06:45 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 26718
+IDC@hsgwportal02APP 11:07 AM
+Wed, 04 Dec 2019 11:07:05 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 10950
+IDC@hsgwmap01APP 11:15 AM
+Wed, 04 Dec 2019 11:15:57 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+11:15:45.097 [ajp-bio-7009-exec-47] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+IDC@hsgwmap02APP 11:16 AM
+Wed, 04 Dec 2019 11:16:12 +0900 | hsgwmap02 : Content match
+check_clienterror_log : content match:
+11:15:30.305 [ajp-bio-7009-exec-71] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:15:44.638 [ajp-bio-7009-exec-76] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+IDC@hsgwmap01APP 11:16 AM
+Wed, 04 Dec 2019 11:16:57 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+11:16:07.546 [ajp-bio-7009-exec-19] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:16:07.581 [ajp-bio-7009-exec-19] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:16:07.817 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:16:11.994 [ajp-bio-7009-exec-43] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+ Show more
+IDC@hsgwmap02APP 11:17 AM
+Wed, 04 Dec 2019 11:17:12 +0900 | hsgwmap02 : Content match
+check_clienterror_log : content match:
+11:16:36.586 [ajp-bio-7009-exec-77] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:16:40.481 [ajp-bio-7009-exec-75] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:16:40.482 [ajp-bio-7009-exec-76] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+IDC@hsgwmap01APP 11:18 AM
+Wed, 04 Dec 2019 11:17:58 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+11:17:23.038 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:23.609 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:25.591 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:26.627 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+ Show more
+IDC@hsgwmap02APP 11:18 AM
+Wed, 04 Dec 2019 11:18:12 +0900 | hsgwmap02 : Content match
+check_clienterror_log : content match:
+11:17:14.999 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:16.673 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:17.747 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:18.220 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+ Show more
+IDC@hsgwmap01APP 11:19 AM
+Wed, 04 Dec 2019 11:18:58 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+11:17:58.540 [ajp-bio-7009-exec-39] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:17:58.703 [ajp-bio-7009-exec-27] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:18:06.221 [ajp-bio-7009-exec-37] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:18:06.255 [ajp-bio-7009-exec-40] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+ Show more
+IDC@hsgwmap02APP 11:19 AM
+Wed, 04 Dec 2019 11:19:12 +0900 | hsgwmap02 : Content match
+check_clienterror_log : content match:
+11:18:28.056 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:18:28.525 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:18:31.602 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+11:18:37.312 [ajp-bio-7009-exec-36] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 500 Internal Server Error
+ Show more
+IDC@hsgwportal02APP 11:19 AM
+Wed, 04 Dec 2019 11:19:28 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 11:19:39 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 12483
+IDC@hsgwportal01APP 11:19 AM
+Wed, 04 Dec 2019 11:19:39 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 11:19:49 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 28470
+IDC@hsgwmap01APP 11:20 AM
+Wed, 04 Dec 2019 11:19:58 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+11:19:31.352 [ajp-bio-7009-exec-40] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 503 Service Temporarily Unavailable
+11:19:32.400 [ajp-bio-7009-exec-40] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 503 Service Temporarily Unavailable
+11:19:33.962 [ajp-bio-7009-exec-40] ERROR c.l.i.m.common.client.MobileClient - [ClientError] GET ErrorCause : 503 Service Temporarily Unavailable
+IDC@hsgwportal01APP 11:36 AM
+Wed, 04 Dec 2019 11:36:08 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 11:36:18 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 30183
+IDC@hsgwportal02APP 11:36 AM
+Wed, 04 Dec 2019 11:36:43 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 11:36:53 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 14309
+IDC@hsgwportal02APP 11:54 AM
+Wed, 04 Dec 2019 11:54:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 11:53:59 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 04 Dec 2019 11:58:49 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 11:58:59 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 16303
+IDC@hsgwportal02APP 12:55 PM
+Wed, 04 Dec 2019 12:55:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 12:54:20 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 12:54:20 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 1:17 PM
+Wed, 04 Dec 2019 13:17:10 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 01:16:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 01:16:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 1:30 PM
+Wed, 04 Dec 2019 13:30:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 01:29:25 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Wed, 04 Dec 2019 13:34:34 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 13:34:45 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 25572
+IDC@hsgwmap02APP 1:37 PM
+Wed, 04 Dec 2019 13:37:48 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:37:19.563 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 13:41:49 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:40:55.948 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+13:40:55.993 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+IDC@hsgwportal01APP 1:44 PM
+Wed, 04 Dec 2019 13:44:33 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 01:43:35 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 01:43:35 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 1:50 PM
+Wed, 04 Dec 2019 13:50:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 01:49:42 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 01:49:42 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwmap02APP 1:51 PM
+Wed, 04 Dec 2019 13:51:51 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:51:19.830 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+13:51:19.881 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 13:52:52 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:52:10.629 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+13:52:10.675 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+IDC@hsgwportal01APP 1:54 PM
+Wed, 04 Dec 2019 13:54:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 01:54:19 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 01:54:19 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwmap02APP 1:57 PM
+Wed, 04 Dec 2019 13:57:53 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:57:01.590 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+13:57:01.628 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 13:58:53 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+13:58:27.873 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+13:58:27.924 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+IDC@hsgwmap02APP 2:04 PM
+Wed, 04 Dec 2019 14:04:55 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:04:54.817 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+14:04:54.870 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 14:06:55 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:06:20.098 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+14:06:20.138 [ajp-bio-7009-exec-94] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22010 || Page : 1 || folderId : URB
+IDC@hsgwportal01APP 2:14 PM
+Wed, 04 Dec 2019 14:14:22 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 14:14:32 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 14845
+IDC@hsgwportal02APP 2:20 PM
+Wed, 04 Dec 2019 14:20:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:19:40 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+12월 04 02:19:44 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+12월 04 02:20:03 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+12월 04 02:20:17 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+ Show more
+IDC@hsgwportal01APP 2:22 PM
+Wed, 04 Dec 2019 14:22:44 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 02:22:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+12월 04 02:22:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+Wed, 04 Dec 2019 14:25:05 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 14:25:15 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 16133
+IDC@hsgwportal02APP 2:25 PM
+Wed, 04 Dec 2019 14:25:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:24:30 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Wed, 04 Dec 2019 14:27:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:26:41 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+12월 04 02:27:18 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 2:34 PM
+Wed, 04 Dec 2019 14:34:30 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:34:09 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 02:34:09 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwmap02APP 2:46 PM
+Wed, 04 Dec 2019 14:46:05 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:45:54.568 [ajp-bio-7009-exec-94] ERROR c.l.i.util.mail.ews.MailEWSUtil - [MailError] MailTitle : NIKE X GS Bi-weekly
+IDC@hsgwportal02APP 2:52 PM
+Wed, 04 Dec 2019 14:52:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:52:33 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:57 PM
+Wed, 04 Dec 2019 14:57:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 02:56:40 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:14 PM
+Wed, 04 Dec 2019 15:13:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 03:13:34 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+12월 04 03:13:34 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal01APP 3:23 PM
+Wed, 04 Dec 2019 15:23:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 03:22:26 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwmap02APP 3:23 PM
+Wed, 04 Dec 2019 15:23:15 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:22:32.713 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:22:40.255 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 15:24:15 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:23:34.498 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+IDC@hsgwmap02APP 3:29 PM
+Wed, 04 Dec 2019 15:29:16 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:28:50.766 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:28:50.825 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:28:53.749 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:28:53.750 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 3:35 PM
+Wed, 04 Dec 2019 15:35:18 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:34:58.380 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+Wed, 04 Dec 2019 15:38:19 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:37:57.243 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:37:57.244 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:37:57.246 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:37:57.247 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 3:46 PM
+Wed, 04 Dec 2019 15:46:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 03:45:41 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwmap02APP 3:55 PM
+Wed, 04 Dec 2019 15:55:23 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+15:54:41.755 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:54:41.757 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:54:41.760 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+15:54:41.761 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 4:00 PM
+Wed, 04 Dec 2019 16:00:24 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+16:00:02.170 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:00:02.171 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:00:02.172 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:00:02.180 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 4:23 PM
+Wed, 04 Dec 2019 16:23:30 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+16:23:26.880 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:23:26.881 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:23:26.882 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:23:26.885 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 4:29 PM
+Wed, 04 Dec 2019 16:29:32 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+16:28:33.833 [ajp-bio-7009-exec-85] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:28:33.834 [ajp-bio-7009-exec-90] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:28:33.835 [ajp-bio-7009-exec-89] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+16:28:33.843 [ajp-bio-7009-exec-83] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 4:33 PM
+Wed, 04 Dec 2019 16:33:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 04:32:43 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 04:32:43 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 4:41 PM
+Wed, 04 Dec 2019 16:41:22 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 04:40:23 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 04 04:40:23 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 5:05 PM
+Wed, 04 Dec 2019 17:05:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 04 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 5:42 PM
+Wed, 04 Dec 2019 17:42:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 05:41:38 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 6:03 PM
+Wed, 04 Dec 2019 18:03:45 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 06:02:56 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 6:05 PM
+Wed, 04 Dec 2019 18:05:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 04 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwmap01APP 6:07 PM
+Wed, 04 Dec 2019 18:07:43 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+18:07:01.078 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+IDC@hsgwportal01APP 6:07 PM
+Wed, 04 Dec 2019 18:07:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 06:07:30 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwmap01APP 6:09 PM
+Wed, 04 Dec 2019 18:09:44 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+18:08:44.284 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:08:44.333 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:09:13.102 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:09:13.142 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+Wed, 04 Dec 2019 18:11:44 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+18:11:23.062 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:11:23.115 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+IDC@hsgwmap01APP 6:22 PM
+Wed, 04 Dec 2019 18:22:47 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+18:22:15.555 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:22:15.608 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:22:41.419 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+18:22:41.475 [ajp-bio-7009-exec-47] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22374 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 7:26 PM
+Wed, 04 Dec 2019 19:26:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 07:26:06 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 04 07:26:06 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+IDC@hsgwportal02APP 9:33 PM
+Wed, 04 Dec 2019 21:33:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 09:32:37 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:32:37 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:32:47 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:32:48 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+ Show more
+Wed, 04 Dec 2019 21:34:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 09:33:25 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:34:00 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:34:00 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 09:34:00 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+ Show more
+IDC@hsgwportal02APP 10:27 PM
+Wed, 04 Dec 2019 22:27:15 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 22:27:35 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 8491
+IDC@hsgwportal01APP 10:31 PM
+Wed, 04 Dec 2019 22:31:15 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 22:32:26 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 26727
+IDC@hsgwportal02APP 10:41 PM
+Wed, 04 Dec 2019 22:41:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:41:36 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 10:41:36 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 10:41:36 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal01APP 10:43 PM
+Wed, 04 Dec 2019 22:42:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 04 10:41:59 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 10:41:59 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 10:42:00 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 04 10:42:34 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal02APP 10:48 PM
+Wed, 04 Dec 2019 22:48:01 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 22:48:21 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 10204
+IDC@hsgwportal01APP 10:50 PM
+Wed, 04 Dec 2019 22:50:11 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 04 Dec 2019 22:50:51 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 28130
+IDC@hsgwportal02APP 10:56 PM
+Wed, 04 Dec 2019 22:56:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 04 10:56:42 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal01APP 8:01 AM
+Thu, 05 Dec 2019 08:01:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 8:57 AM
+Thu, 05 Dec 2019 08:57:20 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 08:56:56 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 400 Bad Request
+12월 05 08:57:09 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 9:01 AM
+Thu, 05 Dec 2019 09:01:40 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 09:01:09 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 05 09:01:09 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:06 AM
+Thu, 05 Dec 2019 09:06:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 09:06:21 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+IDC@hsgwportal02APP 9:09 AM
+Thu, 05 Dec 2019 09:09:23 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 09:08:37 오전 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 410 Gone
+IDC@hsgwmap01APP 9:12 AM
+Thu, 05 Dec 2019 09:12:34 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:11:54.918 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:12:08.803 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:12:21.525 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:12:21.534 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+Thu, 05 Dec 2019 09:13:35 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:12:42.292 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:13:02.967 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:13:02.968 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:13:02.970 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 9:21 AM
+Thu, 05 Dec 2019 09:21:37 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:21:30.915 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:21:30.916 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:21:30.921 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:21:31.009 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 9:28 AM
+Thu, 05 Dec 2019 09:28:39 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:28:25.453 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:28:25.462 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:28:25.474 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:28:25.518 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 9:41 AM
+Thu, 05 Dec 2019 09:41:42 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:41:05.381 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:41:05.386 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:41:05.387 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:41:05.430 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap01APP 9:46 AM
+Thu, 05 Dec 2019 09:46:44 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+09:46:27.943 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:46:27.946 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:46:27.952 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+09:46:27.999 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 9:54 AM
+Thu, 05 Dec 2019 09:54:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 09:54:08 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 05 09:54:12 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 09:54:12 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+...
+Thu, 05 Dec 2019 09:55:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 09:55:33 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:01 AM
+Thu, 05 Dec 2019 10:01:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 05 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:01 AM
+Thu, 05 Dec 2019 10:01:56 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 10:01:43 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 10:01:43 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwmap01APP 10:09 AM
+Thu, 05 Dec 2019 10:09:49 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+10:08:50.755 [ajp-bio-7009-exec-55] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+10:08:50.757 [ajp-bio-7009-exec-27] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+10:08:50.758 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+10:08:50.804 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 10:12 AM
+Thu, 05 Dec 2019 10:11:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 10:11:37 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 05 10:11:38 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+Thu, 05 Dec 2019 10:13:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 10:13:46 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 10:13:46 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwmap01APP 10:26 AM
+Thu, 05 Dec 2019 10:26:54 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+10:25:54.180 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+10:25:54.230 [ajp-bio-7009-exec-57] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22805 || Page : 1 || folderId : URB
+IDC@hsgwportal02APP 10:34 AM
+Thu, 05 Dec 2019 10:34:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 10:33:56 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           4. ResultSet.next()
+12월 05 10:33:56 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           7. ResultSet.next()
+IDC@hsgwportal02APP 10:45 AM
+Thu, 05 Dec 2019 10:45:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 10:44:56 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 05 10:44:56 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 05 10:44:57 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 05 10:44:57 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+Thu, 05 Dec 2019 10:47:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 10:47:02 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 05 10:47:02 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal01APP 11:01 AM
+Thu, 05 Dec 2019 11:01:17 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:27 AM
+Thu, 05 Dec 2019 11:27:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 11:27:21 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 11:42 AM
+Thu, 05 Dec 2019 11:42:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 11:41:40 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 11:41:40 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 11:49 AM
+Thu, 05 Dec 2019 11:49:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 11:48:41 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 12:28 PM
+Thu, 05 Dec 2019 12:28:40 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 12:27:48 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 1:31 PM
+Thu, 05 Dec 2019 13:31:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 01:31:03 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:55 PM
+Thu, 05 Dec 2019 13:55:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 01:54:58 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+IDC@hsgwportal01APP 1:56 PM
+Thu, 05 Dec 2019 13:56:03 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 01:55:06 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:43 PM
+Thu, 05 Dec 2019 15:43:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 03:42:43 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:01 PM
+Thu, 05 Dec 2019 16:01:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 04:01:23 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Thu, 05 Dec 2019 17:05:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 05:05:02 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 05 05:05:02 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 5:12 PM
+Thu, 05 Dec 2019 17:12:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 05:12:07 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 05:12:07 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 5:53 PM
+Thu, 05 Dec 2019 17:53:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 05:52:34 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:55 PM
+Thu, 05 Dec 2019 17:55:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 05:55:17 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 05:55:17 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Thu, 05 Dec 2019 17:56:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 05:56:03 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 05:56:03 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+12월 05 05:56:15 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 05:56:15 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+ Show more
+IDC@hsgwportal01APP 5:57 PM
+Thu, 05 Dec 2019 17:57:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 05:56:35 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 05 05:56:54 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:58 PM
+Thu, 05 Dec 2019 17:58:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 05:57:55 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 05:57:55 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 6:05 PM
+Thu, 05 Dec 2019 18:05:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 05 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+Thu, 05 Dec 2019 18:09:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 05 06:08:40 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 7:03 PM
+Thu, 05 Dec 2019 19:03:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 07:02:44 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+12월 05 07:02:44 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal01APP 7:16 PM
+Thu, 05 Dec 2019 19:15:59 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Thu, 05 Dec 2019 19:16:09 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 5778
+IDC@hsgwportal02APP 7:17 PM
+Thu, 05 Dec 2019 19:17:50 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Thu, 05 Dec 2019 19:18:00 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 24640
+IDC@hsgwportal02APP 7:30 PM
+Thu, 05 Dec 2019 19:30:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 05 07:29:26 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 05 07:29:26 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 8:01 AM
+Fri, 06 Dec 2019 08:01:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Fri, 06 Dec 2019 09:01:05 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:00:33 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:00:34 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 9:01 AM
+Fri, 06 Dec 2019 09:01:44 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 06 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:03 AM
+Fri, 06 Dec 2019 09:03:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:02:48 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:02:48 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 06 Dec 2019 09:05:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:04:54 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:04:54 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 9:08 AM
+Fri, 06 Dec 2019 09:08:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 09:08:19 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:08:19 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 9:20 AM
+Fri, 06 Dec 2019 09:20:50 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 09:20:44 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 9:35 AM
+Fri, 06 Dec 2019 09:35:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 09:35:25 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:35:25 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 9:40 AM
+Fri, 06 Dec 2019 09:40:55 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 09:40:32 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:40:32 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 9:43 AM
+Fri, 06 Dec 2019 09:43:17 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:43:11 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 09:43:11 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 06 Dec 2019 09:45:17 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:45:07 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+Fri, 06 Dec 2019 09:49:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 09:49:16 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 10:01 AM
+Fri, 06 Dec 2019 10:01:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 06 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+Fri, 06 Dec 2019 10:02:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 10:01:22 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           19. ResultSet.next()
+IDC@hsgwportal01APP 10:06 AM
+Fri, 06 Dec 2019 10:06:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 10:06:13 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 10:06:13 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 06 Dec 2019 10:09:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 10:08:48 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 10:08:48 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 10:33 AM
+Fri, 06 Dec 2019 10:33:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 10:33:20 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           18. ResultSet.next()
+12월 06 10:33:29 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           4. ResultSet.next()
+IDC@hsgwportal02APP 10:34 AM
+Fri, 06 Dec 2019 10:34:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 10:33:14 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           31. ResultSet.next()
+12월 06 10:33:22 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           2. ResultSet.next()
+12월 06 10:33:23 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           18. ResultSet.next()
+12월 06 10:33:23 오전 ERROR - BookingRoomController.getInitData(106) |                           SqlMapClient operation; SQL [];
+ Show more
+IDC@hsgwportal01APP 10:34 AM
+Fri, 06 Dec 2019 10:34:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 10:33:34 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           18. ResultSet.next()
+12월 06 10:33:38 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           10. ResultSet.next()
+12월 06 10:33:38 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           4. ResultSet.next()
+12월 06 10:33:38 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           org.springframework.dao.DeadlockLoserDataAccessException: SqlMapClient operation; SQL [];
+ Show more
+IDC@hsgwportal01APP 11:01 AM
+Fri, 06 Dec 2019 11:01:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:12 AM
+Fri, 06 Dec 2019 11:12:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 11:12:03 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 1:47 PM
+Fri, 06 Dec 2019 13:47:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 01:46:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 01:46:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 1:52 PM
+Fri, 06 Dec 2019 13:52:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 01:51:19 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 01:51:19 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 06 Dec 2019 13:53:07 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 01:52:24 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 01:52:24 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 2:12 PM
+Fri, 06 Dec 2019 14:12:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 02:11:52 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 02:11:52 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 06 Dec 2019 14:16:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 02:16:08 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 02:16:08 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 2:56 PM
+Fri, 06 Dec 2019 14:56:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 06 02:55:58 오후 ERROR - BoardItemController.autoMatchPic(487) |                           Auto Match PIC:null
+IDC@hsgwportal02APP 2:57 PM
+Fri, 06 Dec 2019 14:57:24 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 02:57:07 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 06 Dec 2019 14:59:24 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 02:59:03 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 3:52 PM
+Fri, 06 Dec 2019 15:52:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 03:51:44 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:01 PM
+Fri, 06 Dec 2019 16:01:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 04:01:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 06 04:01:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+IDC@hsgwportal02APP 5:06 PM
+Fri, 06 Dec 2019 17:05:58 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 06 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 6:05 PM
+Fri, 06 Dec 2019 18:05:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 06 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 7:17 PM
+Fri, 06 Dec 2019 19:17:33 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 06 07:16:42 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 06 07:16:42 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 10:40 AM
+Sun, 08 Dec 2019 10:40:44 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 08 10:40:37 오전 ERROR - IasController.getCount(275) |                           IAS Call api:500 Internal Server Error
+IDC@hsgwportal02APP 10:45 AM
+Sun, 08 Dec 2019 10:45:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 08 10:45:38 오전 ERROR - IasController.getCount(275) |                           IAS Call api:500 Internal Server Error
+IDC@hsgwportal01APP 10:51 AM
+Sun, 08 Dec 2019 10:51:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 08 10:50:39 오전 ERROR - IasController.getCount(275) |                           IAS Call api:500 Internal Server Error
+IDC@hsgwportal02APP 8:01 AM
+Mon, 09 Dec 2019 08:01:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:01 AM
+Mon, 09 Dec 2019 09:01:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 09:01:01 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 09 09:01:01 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:22 AM
+Mon, 09 Dec 2019 09:22:33 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 09:22:13 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 09 09:22:13 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 9:41 AM
+Mon, 09 Dec 2019 09:41:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 09:40:48 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 09 Dec 2019 09:43:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 09:42:16 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 09 Dec 2019 09:46:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 09:45:16 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22816
+12월 09 09:45:16 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 9:59 AM
+Mon, 09 Dec 2019 09:59:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 09:59:10 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Mon, 09 Dec 2019 10:01:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 09 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:24 AM
+Mon, 09 Dec 2019 10:24:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 10:24:05 오전 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:33 AM
+Mon, 09 Dec 2019 10:33:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 10:33:15 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           30. ResultSet.next()
+12월 09 10:33:23 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           100. ResultSet.next()
+12월 09 10:33:28 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           91. ResultSet.next()
+Mon, 09 Dec 2019 10:34:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 10:33:59 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           3. ResultSet.next()
+IDC@hsgwportal01APP 10:42 AM
+Mon, 09 Dec 2019 10:42:31 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 10:41:34 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 11:02 AM
+Mon, 09 Dec 2019 11:01:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:32 AM
+Mon, 09 Dec 2019 11:32:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 11:31:40 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22366
+IDC@hsgwportal02APP 12:30 PM
+Mon, 09 Dec 2019 12:30:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 12:29:38 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 12:59 PM
+Mon, 09 Dec 2019 12:59:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 12:58:31 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 1:34 PM
+Mon, 09 Dec 2019 13:34:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 01:33:58 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 2:23 PM
+Mon, 09 Dec 2019 14:23:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 02:23:20 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+12월 09 02:23:32 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+12월 09 02:23:32 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+...
+IDC@hsgwportal01APP 2:48 PM
+Mon, 09 Dec 2019 14:48:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 02:47:49 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:09 PM
+Mon, 09 Dec 2019 15:09:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 03:09:01 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Mon, 09 Dec 2019 15:10:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 03:10:50 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 3:16 PM
+Mon, 09 Dec 2019 15:16:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 03:16:34 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:29 PM
+Mon, 09 Dec 2019 15:29:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 03:29:53 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:40 PM
+Mon, 09 Dec 2019 15:40:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 03:39:03 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:07 PM
+Mon, 09 Dec 2019 16:07:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 04:06:31 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 09 Dec 2019 16:10:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 04:09:40 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:28 PM
+Mon, 09 Dec 2019 16:28:12 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 04:27:33 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:43 PM
+Mon, 09 Dec 2019 16:43:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 09 04:42:18 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Mon, 09 Dec 2019 17:05:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 09 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 6:05 PM
+Mon, 09 Dec 2019 18:05:56 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 09 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 8:20 PM
+Mon, 09 Dec 2019 20:20:32 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 09 08:20:10 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwmap02APP 9:01 PM
+Mon, 09 Dec 2019 21:01:02 +0900 | hsgwmap02 : Content match
+check_ehrerror_log : content match:
+21:00:38.576 [ajp-bio-7009-exec-108] ERROR c.l.i.m.common.client.EhrClient - [EhrError] GET ErrorCause : 500 Internal Server Error
+IDC@hsgwportal01APP 8:01 AM
+Tue, 10 Dec 2019 08:01:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Tue, 10 Dec 2019 09:01:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 09:01:01 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 10 09:01:01 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 10:01 AM
+Tue, 10 Dec 2019 10:01:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 10 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:33 AM
+Tue, 10 Dec 2019 10:33:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 10:33:18 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           92. ResultSet.next()
+12월 10 10:33:41 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           5. ResultSet.next()
+Tue, 10 Dec 2019 10:34:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 10:33:56 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           83. ResultSet.next()
+IDC@hsgwportal02APP 10:48 AM
+Tue, 10 Dec 2019 10:48:17 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 10:48:11 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           30. ResultSet.next()
+IDC@hsgwportal01APP 10:49 AM
+Tue, 10 Dec 2019 10:48:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 10:48:16 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           90. ResultSet.next()
+12월 10 10:48:19 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           90. ResultSet.next()
+12월 10 10:48:19 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           37. ResultSet.next()
+12월 10 10:48:29 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           94. ResultSet.next()
+IDC@hsgwportal01APP 11:01 AM
+Tue, 10 Dec 2019 11:01:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:48 AM
+Tue, 10 Dec 2019 11:48:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 11:47:23 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 1:56 PM
+Tue, 10 Dec 2019 13:56:48 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 01:56:24 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+12월 10 01:56:24 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal02APP 2:04 PM
+Tue, 10 Dec 2019 14:04:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 02:03:54 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 2:04 PM
+Tue, 10 Dec 2019 14:04:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 02:03:55 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 2:33 PM
+Tue, 10 Dec 2019 14:32:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 02:32:17 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 2:54 PM
+Tue, 10 Dec 2019 14:54:03 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 02:53:25 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+12월 10 02:53:26 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 2:54 PM
+Tue, 10 Dec 2019 14:54:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 02:53:26 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 3:54 PM
+Tue, 10 Dec 2019 15:54:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 03:53:47 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:43 PM
+Tue, 10 Dec 2019 16:43:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:43:00 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 10 Dec 2019 16:44:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:44:22 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:50 PM
+Tue, 10 Dec 2019 16:50:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:50:35 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 10 Dec 2019 16:52:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:52:19 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+12월 10 04:52:33 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 10 Dec 2019 16:53:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:53:32 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 10 Dec 2019 16:54:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 04:54:15 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 5:05 PM
+Tue, 10 Dec 2019 17:05:38 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 10 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 6:05 PM
+Tue, 10 Dec 2019 18:05:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 10 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 10 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:09 PM
+Tue, 10 Dec 2019 18:09:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 10 06:09:31 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           110. PreparedStatement.execute() FAILED!    /* [ApprLine_SqlMap.xml] approval.work.dao.ApprLine.updateChargeUserId */  UPDATE IKEP4_APPR_LINE   SET   APPROVER_ID   = '21897',   APPROVER_NAME  = '이승훈',   APPROVER_GROUP_NAME = '이천물류센터',   APPROVER_JOB_TITLE = '팀장'      WHERE APPR_ID    = '100010250668'   AND   APPR_ORDER = '1'          {FAILED after 6 msec}
+IDC@hsgwmap02APP 6:48 PM
+Tue, 10 Dec 2019 18:48:31 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:48:25.297 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+Tue, 10 Dec 2019 18:49:31 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:48:37.428 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:48:52.588 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:48:52.594 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:48:52.629 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 6:56 PM
+Tue, 10 Dec 2019 18:56:33 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+18:56:24.306 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:56:24.315 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:56:24.344 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+18:56:24.345 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 7:04 PM
+Tue, 10 Dec 2019 19:04:35 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+19:04:22.263 [ajp-bio-7009-exec-108] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+Tue, 10 Dec 2019 19:09:36 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+19:08:50.160 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:08:50.161 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:08:50.168 [ajp-bio-7009-exec-108] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:08:50.214 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwmap02APP 7:20 PM
+Tue, 10 Dec 2019 19:20:39 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+19:19:53.687 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:19:53.689 [ajp-bio-7009-exec-108] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:19:53.690 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:19:53.733 [ajp-bio-7009-exec-108] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+ Show more
+Tue, 10 Dec 2019 19:23:40 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+19:22:46.877 [ajp-bio-7009-exec-108] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:22:46.878 [ajp-bio-7009-exec-105] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:22:46.879 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+19:22:46.924 [ajp-bio-7009-exec-99] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20890 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal01APP 8:01 AM
+Wed, 11 Dec 2019 08:01:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Wed, 11 Dec 2019 09:01:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 11 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:14 AM
+Wed, 11 Dec 2019 09:14:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 09:13:12 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+Wed, 11 Dec 2019 09:15:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 09:14:09 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:26 AM
+Wed, 11 Dec 2019 09:26:08 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 09:25:32 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 10:01 AM
+Wed, 11 Dec 2019 10:01:18 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 11 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+new messages
+IDC@hsgwportal02APP 11:01 AM
+Wed, 11 Dec 2019 11:01:34 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:11 AM
+Wed, 11 Dec 2019 11:11:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 11:11:00 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 11:23 AM
+Wed, 11 Dec 2019 11:23:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 11:23:26 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 11:24 AM
+Wed, 11 Dec 2019 11:24:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 11:24:19 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           6. ResultSet.getString(SENDER_USER_MOBILE)
+IDC@hsgwportal02APP 11:42 AM
+Wed, 11 Dec 2019 11:42:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 11:42:33 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 11 Dec 2019 11:46:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 11:45:50 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 11 Dec 2019 11:49:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 11:49:15 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal02APP 1:18 PM
+Wed, 11 Dec 2019 13:18:10 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 01:17:44 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 410 Gone
+IDC@hsgwportal02APP 1:23 PM
+Wed, 11 Dec 2019 13:23:11 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 01:23:02 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 410 Gone
+IDC@hsgwportal02APP 1:38 PM
+Wed, 11 Dec 2019 13:38:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 01:37:39 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 11 Dec 2019 13:39:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 01:38:17 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+12월 11 01:38:42 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 11 Dec 2019 13:41:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 11 01:40:17 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+12월 11 01:40:50 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 2:18 PM
+Wed, 11 Dec 2019 14:18:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 02:17:40 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:03 PM
+Wed, 11 Dec 2019 15:03:27 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 03:02:31 오후 ERROR - ApprLineServiceImpl.sendMail(3328) |                           메일 전송실패
+IDC@hsgwportal01APP 5:06 PM
+Wed, 11 Dec 2019 17:05:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 11 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:05 PM
+Wed, 11 Dec 2019 18:05:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 11 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 11 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwmap01APP 6:24 PM
+Wed, 11 Dec 2019 18:24:02 +0900 | hsgwmap01 : Content match
+check_ehrerror_log : content match:
+18:23:02.807 [ajp-bio-7009-exec-92] ERROR c.l.i.m.common.client.EhrClient - [EhrError] GET ErrorCause : 500 Internal Server Error
+IDC@hsgwportal02APP 3:30 AM
+Thu, 12 Dec 2019 03:30:50 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 03:30:17 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           117. ResultSet.next()
+12월 12 03:30:17 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           26. ResultSet.next()
+12월 12 03:30:17 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           72. ResultSet.next()
+12월 12 03:30:17 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           65. ResultSet.next()
+IDC@hsgwportal02APP 8:02 AM
+Thu, 12 Dec 2019 08:01:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:01 AM
+Thu, 12 Dec 2019 09:01:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 12 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:04 AM
+Thu, 12 Dec 2019 09:04:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 09:03:15 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           123. PreparedStatement.execute() FAILED!    /* [ApprLine_SqlMap.xml] approval.work.dao.ApprLine.updateChargeUserId */  UPDATE IKEP4_APPR_LINE   SET   APPROVER_ID   = '21897',   APPROVER_NAME  = '이승훈',   APPROVER_GROUP_NAME = '이천물류센터',   APPROVER_JOB_TITLE = '팀장'      WHERE APPR_ID    = '100010250668'   AND   APPR_ORDER = '1'          {FAILED after 2 msec}
+IDC@hsgwportal01APP 9:35 AM
+Thu, 12 Dec 2019 09:35:21 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 09:35:02 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 12 09:35:02 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+IDC@hsgwportal02APP 9:49 AM
+Thu, 12 Dec 2019 09:49:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 09:48:29 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 10:01 AM
+Thu, 12 Dec 2019 10:01:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 12 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 10:03 AM
+Thu, 12 Dec 2019 10:03:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 10:03:05 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 10:28 AM
+Thu, 12 Dec 2019 10:28:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 10:27:46 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22366
+IDC@hsgwportal02APP 11:01 AM
+Thu, 12 Dec 2019 11:01:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 1:20 PM
+Thu, 12 Dec 2019 13:20:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 01:20:15 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           123. ResultSet.next()
+Thu, 12 Dec 2019 13:21:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 01:20:20 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           97. ResultSet.next()
+12월 12 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           114. ResultSet.next()
+12월 12 01:20:24 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           108. ResultSet.next()
+12월 12 01:20:29 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           103. ResultSet.next()
+ Show more
+IDC@hsgwportal02APP 1:21 PM
+Thu, 12 Dec 2019 13:21:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 01:20:35 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           116. ResultSet.next()
+12월 12 01:20:37 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           118. ResultSet.next()
+12월 12 01:20:39 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           6. ResultSet.next()
+IDC@hsgwportal01APP 1:42 PM
+Thu, 12 Dec 2019 13:42:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 01:41:40 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22366
+IDC@hsgwportal01APP 5:05 PM
+Thu, 12 Dec 2019 17:05:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 12 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 6:05 PM
+Thu, 12 Dec 2019 18:05:36 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 12 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 12 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 8:07 PM
+Thu, 12 Dec 2019 20:07:06 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Thu, 12 Dec 2019 20:07:18 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 13209
+IDC@hsgwportal01APP 10:33 PM
+Thu, 12 Dec 2019 22:33:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 12 10:32:50 오후 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal02APP 8:01 AM
+Fri, 13 Dec 2019 08:01:11 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Fri, 13 Dec 2019 09:01:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 09:01:03 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 13 09:01:03 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:02 AM
+Fri, 13 Dec 2019 09:02:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 09:02:12 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:11 AM
+Fri, 13 Dec 2019 09:11:29 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 09:10:47 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 13 09:10:47 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+IDC@hsgwportal02APP 9:16 AM
+Fri, 13 Dec 2019 09:16:30 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 09:15:32 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22366
+IDC@hsgwportal02APP 10:01 AM
+Fri, 13 Dec 2019 10:01:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+12월 13 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:01 AM
+Fri, 13 Dec 2019 11:01:04 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:24 AM
+Fri, 13 Dec 2019 11:24:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 11:23:44 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22464
+12월 13 11:23:44 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23183
+IDC@hsgwportal02APP 1:20 PM
+Fri, 13 Dec 2019 13:20:34 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 01:20:15 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           21. ResultSet.next()
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           6. ResultSet.next()
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           5. ResultSet.next()
+12월 13 01:20:28 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           21. ResultSet.next()
+IDC@hsgwportal01APP 1:20 PM
+Fri, 13 Dec 2019 13:20:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           8. ResultSet.next()
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           11. ResultSet.next()
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           10. ResultSet.next()
+12월 13 01:20:23 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           13. ResultSet.next()
+ Show more
+IDC@hsgwportal02APP 2:05 PM
+Fri, 13 Dec 2019 14:05:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 02:04:49 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 2:27 PM
+Fri, 13 Dec 2019 14:26:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 02:26:05 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+12월 13 02:26:23 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 2:37 PM
+Fri, 13 Dec 2019 14:37:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 02:36:06 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 5:05 PM
+Fri, 13 Dec 2019 17:05:32 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 13 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 13 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:05 PM
+Fri, 13 Dec 2019 18:05:56 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 13 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 13 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 9:09 PM
+Sat, 14 Dec 2019 21:09:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 14 09:09:22 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+IDC@hsgwportal01APP 9:10 PM
+Sat, 14 Dec 2019 21:10:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 14 09:09:22 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway

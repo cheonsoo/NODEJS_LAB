@@ -1,0 +1,2074 @@
+IDC@hsgwportal02APP 6:09 PM
+Fri, 08 Nov 2019 18:09:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 08 06:09:46 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+11월 08 06:09:46 오후 ERROR - NewGoogleDataServiceImpl.googleCreate(198) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 6:24 PM
+Fri, 08 Nov 2019 18:24:22 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Fri, 08 Nov 2019 18:24:32 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 5547
+IDC@hsgwportal01APP 6:26 PM
+Fri, 08 Nov 2019 18:26:43 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Fri, 08 Nov 2019 18:26:53 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 5574
+IDC@hsgwportal01APP 6:40 PM
+Fri, 08 Nov 2019 18:40:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 08 06:40:00 오후 ERROR - SendMessengerFileServiceImpl.sendSyncFile(60) |                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ERROR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~null
+IDC@hsgwmap02APP 2:14 PM
+Sat, 09 Nov 2019 14:14:45 +0900 | hsgwmap02 : Content match
+check_groupware_log : content match:
+Title : (광고) 뉴타닉스에서 XTour Seoul 2019에 초대합니다. (11월 14일, 그랜드 인터컨)
+IDC@hsgwportal01APP 6:40 PM
+Sat, 09 Nov 2019 18:40:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 09 06:40:00 오후 ERROR - SendMessengerFileServiceImpl.sendSyncFile(60) |                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ERROR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~null
+IDC@hsgwmap01APP 10:30 PM
+Sat, 09 Nov 2019 22:30:56 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Sat, 09 Nov 2019 22:31:16 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 28975
+IDC@hsgwmap01APP 10:48 PM
+Sat, 09 Nov 2019 22:48:41 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Sat, 09 Nov 2019 22:48:51 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 32387
+IDC@hsgwmap02APP 10:49 PM
+Sat, 09 Nov 2019 22:49:14 +0900 | hsgwmap02 : Does not exist
+app_tomcat : process is not running
+Sat, 09 Nov 2019 22:49:24 +0900 | hsgwmap02 : Exists
+app_tomcat : process is running with pid 30204
+IDC@hsgwportal02APP 10:30 AM
+Sun, 10 Nov 2019 10:30:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 10 10:30:00 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           25. Statement.executeQuery(SELECT 1 FROM DUAL) FAILED! SELECT 1 FROM DUAL {FAILED after 31 msec}
+11월 10 10:30:00 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           25. Connection.close()
+IDC@hsgwportal01APP 12:10 PM
+Sun, 10 Nov 2019 12:10:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 10 12:10:00 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           23. Statement.executeQuery(SELECT 1 FROM DUAL) FAILED! SELECT 1 FROM DUAL {FAILED after 19 msec}
+11월 10 12:10:00 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           23. Connection.close()
+IDC@hsgwportal02APP 3:27 PM
+Sun, 10 Nov 2019 15:27:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 10 03:26:24 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           26. Statement.executeQuery(SELECT 1 FROM DUAL) FAILED! SELECT 1 FROM DUAL {FAILED after 0 msec}
+11월 10 03:26:24 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           26. Connection.close()
+IDC@hsgwportal02APP 6:40 PM
+Sun, 10 Nov 2019 18:40:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 10 06:40:00 오후 ERROR - SendMessengerFileServiceImpl.sendSyncFile(60) |                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ERROR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~null
+IDC@hsgwportal01APP 9:07 AM
+Mon, 11 Nov 2019 09:07:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 11 09:07:23 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 11:43 AM
+Mon, 11 Nov 2019 11:43:29 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 11 11:42:38 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 3:07 PM
+Mon, 11 Nov 2019 15:07:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 11 03:06:23 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 11 03:06:23 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 3:52 PM
+Mon, 11 Nov 2019 15:52:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 11 03:52:35 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 4:52 PM
+Mon, 11 Nov 2019 16:51:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 11 04:51:36 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Mon, 11 Nov 2019 16:56:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 11 04:55:43 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal02APP 6:40 PM
+Mon, 11 Nov 2019 18:40:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 11 06:40:00 오후 ERROR - SendMessengerFileServiceImpl.sendSyncFile(60) |                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ERROR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~null
+IDC@hsgwportal01APP 8:20 AM
+Tue, 12 Nov 2019 08:20:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 08:19:34 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           8. ResultSet.getObject(GOOGLE_CAL_ID)
+11월 12 08:19:38 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           8. ResultSet.getObject(GOOGLE_CAL_ID)
+11월 12 08:19:44 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           16. ResultSet.getObject(GOOGLE_CAL_ID)
+IDC@hsgwportal01APP 9:03 AM
+Tue, 12 Nov 2019 09:03:12 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 09:03:04 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 9:13 AM
+Tue, 12 Nov 2019 09:13:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 09:13:03 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:19 AM
+Tue, 12 Nov 2019 09:19:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 12 09:18:50 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 12 09:18:50 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 10:06 AM
+Tue, 12 Nov 2019 10:06:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 10:06:09 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 12 10:06:09 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 11:52 AM
+Tue, 12 Nov 2019 11:52:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 12 11:51:56 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 3:53 PM
+Tue, 12 Nov 2019 15:53:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 03:52:36 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 4:37 PM
+Tue, 12 Nov 2019 16:37:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 04:37:00 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+Tue, 12 Nov 2019 16:38:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 04:37:16 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 4:43 PM
+Tue, 12 Nov 2019 16:43:13 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 04:42:46 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 5:45 PM
+Tue, 12 Nov 2019 17:45:10 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 12 05:44:46 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 7:04 PM
+Tue, 12 Nov 2019 19:04:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 07:04:02 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21189
+IDC@hsgwportal01APP 8:01 PM
+Tue, 12 Nov 2019 20:01:55 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Tue, 12 Nov 2019 20:02:05 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 22347
+IDC@hsgwportal01APP 8:18 PM
+Tue, 12 Nov 2019 20:18:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 12 08:17:20 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 410 Gone
+IDC@hsgwportal02APP 12:58 AM
+Wed, 13 Nov 2019 00:58:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+10월 31 03:29:03 오후 ERROR - CalendarController.deleteSchedule(1775) |                           ########################################## http://portal.gshs.co.kr/lightpack/meetingroom/booking/app.do
+10월 31 03:35:59 오후 ERROR - NewGoogleDataServiceImpl.googleCreate(198) |                           java.lang.NullPointerException
+10월 31 03:35:59 오후 ERROR - CalendarController.create(1631) |                           googleCreateException : null
+10월 31 05:02:24 오후 ERROR - NewGoogleDataServiceImpl.googleCreate(198) |                           java.lang.NullPointerException
+ Show more
+IDC@hsgwportal01APP 12:58 AM
+Wed, 13 Nov 2019 00:58:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+10월 31 03:28:39 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+10월 31 03:28:39 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+10월 31 04:08:45 오후 ERROR - NewGoogleDataServiceImpl.googleCreate(198) |                           java.lang.NullPointerException
+10월 31 04:08:45 오후 ERROR - CalendarController.create(1631) |                           googleCreateException : null
+ Show more
+IDC@hsgwportal02APP 9:18 PM
+Wed, 13 Nov 2019 21:18:31 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 13 Nov 2019 21:18:41 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 28681
+IDC@hsgwportal01APP 9:20 PM
+Wed, 13 Nov 2019 21:20:57 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 13 Nov 2019 21:21:17 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 11111
+IDC@hsgwportal01APP 9:40 PM
+Wed, 13 Nov 2019 21:40:42 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 09:39:54 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Wed, 13 Nov 2019 21:43:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 09:43:03 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 11:28 PM
+Wed, 13 Nov 2019 23:28:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:27:28 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 13 11:27:46 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:32:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:31:43 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 11:41 PM
+Wed, 13 Nov 2019 23:41:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:40:20 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:44:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:44:02 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:45:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:45:07 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Wed, 13 Nov 2019 23:48:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:48:07 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:50:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:50:03 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:51:17 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:50:35 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Wed, 13 Nov 2019 23:55:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 13 11:54:59 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 8:48 AM
+Thu, 14 Nov 2019 08:48:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 08:48:03 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 9:07 AM
+Thu, 14 Nov 2019 09:07:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 09:06:45 오전 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Thu, 14 Nov 2019 09:09:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 09:08:59 오전 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 09:11:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 09:10:33 오전 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 9:15 AM
+Thu, 14 Nov 2019 09:15:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:15:02 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal01APP 9:24 AM
+Thu, 14 Nov 2019 09:24:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:24:04 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 09:27:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:27:11 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 09:28:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:28:17 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Thu, 14 Nov 2019 09:30:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:30:07 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 9:31 AM
+Thu, 14 Nov 2019 09:31:20 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 09:30:22 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 9:34 AM
+Thu, 14 Nov 2019 09:34:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:34:02 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 9:37 AM
+Thu, 14 Nov 2019 09:37:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 09:36:30 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 9:38 AM
+Thu, 14 Nov 2019 09:38:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:37:55 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 9:48 AM
+Thu, 14 Nov 2019 09:48:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 09:48:22 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:07 AM
+Thu, 14 Nov 2019 10:07:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 10:06:29 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 10:06:29 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 14 10:06:37 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 10:06:37 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+ Show more
+IDC@hsgwportal02APP 10:07 AM
+Thu, 14 Nov 2019 10:07:30 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:07:05 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+Thu, 14 Nov 2019 10:10:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:10:28 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 10:19 AM
+Thu, 14 Nov 2019 10:19:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:19:28 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 10:21:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:21:07 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 14 10:21:30 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 10:22:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:21:43 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Thu, 14 Nov 2019 10:24:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 10:24:31 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:33 AM
+Thu, 14 Nov 2019 10:33:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 10:32:18 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 14 10:32:54 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 14 10:33:02 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:44 AM
+Thu, 14 Nov 2019 10:44:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 10:43:15 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 10:43:15 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 14 10:43:38 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 10:43:38 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+ Show more
+IDC@hsgwportal01APP 10:49 AM
+Thu, 14 Nov 2019 10:49:13 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 10:49:11 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 10:49:11 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:59 AM
+Thu, 14 Nov 2019 10:59:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 10:58:35 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 11:00:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 11:00:15 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 11:08 AM
+Thu, 14 Nov 2019 11:08:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 11:07:45 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 14 11:07:45 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal02APP 11:11 AM
+Thu, 14 Nov 2019 11:11:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 11:11:34 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 11:30 AM
+Thu, 14 Nov 2019 11:30:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 11:30:05 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 11:43 AM
+Thu, 14 Nov 2019 11:42:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 11:42:19 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal02APP 11:48 AM
+Thu, 14 Nov 2019 11:48:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 11:48:01 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 11:51:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 11:50:42 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 14 11:50:53 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Thu, 14 Nov 2019 11:52:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 11:52:00 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 11:52 AM
+Thu, 14 Nov 2019 11:52:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 11:52:11 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 1:32 PM
+Thu, 14 Nov 2019 13:32:56 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 01:32:28 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 1:50 PM
+Thu, 14 Nov 2019 13:50:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 01:49:30 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 1:56 PM
+Thu, 14 Nov 2019 13:56:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 01:55:21 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 1:59 PM
+Thu, 14 Nov 2019 13:59:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 01:59:08 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 2:00 PM
+Thu, 14 Nov 2019 14:00:04 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 01:59:14 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 2:27 PM
+Thu, 14 Nov 2019 14:27:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 02:26:46 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 2:44 PM
+Thu, 14 Nov 2019 14:44:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 02:44:04 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 2:49 PM
+Thu, 14 Nov 2019 14:49:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 02:49:34 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 14:50:53 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 02:49:54 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 2:57 PM
+Thu, 14 Nov 2019 14:57:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 02:57:00 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 3:13 PM
+Thu, 14 Nov 2019 15:12:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:12:09 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 3:13 PM
+Thu, 14 Nov 2019 15:13:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 03:12:53 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+11월 14 03:12:53 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 3:17 PM
+Thu, 14 Nov 2019 15:17:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:16:25 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 3:24 PM
+Thu, 14 Nov 2019 15:24:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:23:44 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 15:26:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:25:34 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 15:28:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:27:36 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 3:38 PM
+Thu, 14 Nov 2019 15:38:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 03:37:57 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Thu, 14 Nov 2019 15:40:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 03:40:27 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal02APP 3:41 PM
+Thu, 14 Nov 2019 15:41:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:40:33 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 15:42:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:42:01 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 15:43:07 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 03:42:41 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 3:50 PM
+Thu, 14 Nov 2019 15:50:33 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 03:49:53 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 14 03:50:22 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 4:04 PM
+Thu, 14 Nov 2019 16:04:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:03:13 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 4:30 PM
+Thu, 14 Nov 2019 16:30:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:29:34 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 16:33:20 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:32:22 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 4:33 PM
+Thu, 14 Nov 2019 16:33:44 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 04:33:28 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 4:37 PM
+Thu, 14 Nov 2019 16:37:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:36:28 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 4:45 PM
+Thu, 14 Nov 2019 16:45:23 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:45:04 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 4:55 PM
+Thu, 14 Nov 2019 16:55:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 04:55:49 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 4:57 PM
+Thu, 14 Nov 2019 16:57:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:56:49 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 16:58:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:58:17 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 16:59:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:58:54 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 17:00:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 04:59:32 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 14 05:00:04 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 5:03 PM
+Thu, 14 Nov 2019 17:03:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 05:02:56 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 5:04 PM
+Thu, 14 Nov 2019 17:04:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:03:34 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 5:28 PM
+Thu, 14 Nov 2019 17:28:34 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:27:41 오후 ERROR - BoardItemController.autoMatchPic(487) |                           Auto Match PIC:null
+Thu, 14 Nov 2019 17:29:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:29:00 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 5:37 PM
+Thu, 14 Nov 2019 17:37:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:37:34 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 17:38:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:38:09 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 17:40:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:39:42 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 17:43:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:43:14 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 17:44:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:44:14 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 14 05:44:26 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Thu, 14 Nov 2019 17:45:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:44:56 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 5:50 PM
+Thu, 14 Nov 2019 17:50:05 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 05:49:42 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 5:55 PM
+Thu, 14 Nov 2019 17:55:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 05:54:54 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 5:59 PM
+Thu, 14 Nov 2019 17:59:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 05:58:48 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 18:00:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 06:00:35 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 18:01:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 06:01:41 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 6:05 PM
+Thu, 14 Nov 2019 18:05:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 06:05:06 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Thu, 14 Nov 2019 18:06:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 06:05:43 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 14 06:05:58 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 6:16 PM
+Thu, 14 Nov 2019 18:16:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 06:16:43 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 6:34 PM
+Thu, 14 Nov 2019 18:34:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 06:33:36 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 7:00 PM
+Thu, 14 Nov 2019 19:00:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 14 06:59:44 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 7:09 PM
+Thu, 14 Nov 2019 19:09:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 07:08:48 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 7:18 PM
+Thu, 14 Nov 2019 19:18:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 07:17:40 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 19:20:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 07:19:11 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 19:21:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 07:20:56 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Thu, 14 Nov 2019 19:22:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 14 07:21:48 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 8:54 AM
+Fri, 15 Nov 2019 08:53:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 08:53:29 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 9:00 AM
+Fri, 15 Nov 2019 09:00:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 08:59:47 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 9:09 AM
+Fri, 15 Nov 2019 09:09:34 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 09:08:57 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 9:13 AM
+Fri, 15 Nov 2019 09:13:04 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:12:51 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+11월 15 09:12:59 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+11월 15 09:13:04 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+Fri, 15 Nov 2019 09:14:05 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:13:43 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+Fri, 15 Nov 2019 09:16:05 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:16:05 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+Fri, 15 Nov 2019 09:17:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:16:09 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+11월 15 09:16:17 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           java.lang.NullPointerException
+Fri, 15 Nov 2019 09:21:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:20:23 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 15 09:20:23 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Fri, 15 Nov 2019 09:23:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:22:58 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 09:24:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:23:43 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 9:24 AM
+Fri, 15 Nov 2019 09:24:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 09:24:24 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 9:26 AM
+Fri, 15 Nov 2019 09:26:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:25:16 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 9:31 AM
+Fri, 15 Nov 2019 09:31:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 09:30:53 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal01APP 9:34 AM
+Fri, 15 Nov 2019 09:34:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:33:31 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 09:38:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:37:29 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 9:43 AM
+Fri, 15 Nov 2019 09:43:13 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:43:10 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 9:45 AM
+Fri, 15 Nov 2019 09:45:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 09:44:44 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 9:53 AM
+Fri, 15 Nov 2019 09:53:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:52:45 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 09:55:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:55:05 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 09:56:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 09:55:17 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 09:55:27 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 10:00 AM
+Fri, 15 Nov 2019 10:00:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:00:03 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 15 10:00:03 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 15 10:00:14 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 15 10:00:14 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+ Show more
+Fri, 15 Nov 2019 10:02:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:02:33 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 15 10:02:33 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:03 AM
+Fri, 15 Nov 2019 10:03:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:02:28 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Fri, 15 Nov 2019 10:04:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:03:37 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 10:06:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:05:44 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal02APP 10:07 AM
+Fri, 15 Nov 2019 10:07:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:06:51 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 10:07:26 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 10:15 AM
+Fri, 15 Nov 2019 10:15:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:15:42 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 10:16:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:16:00 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 10:22 AM
+Fri, 15 Nov 2019 10:22:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:22:20 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 10:23:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:22:43 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 10:22:49 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 10:22:55 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 10:29 AM
+Fri, 15 Nov 2019 10:29:55 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:29:10 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0];
+IDC@hsgwportal01APP 10:35 AM
+Fri, 15 Nov 2019 10:35:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:35:18 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 10:36 AM
+Fri, 15 Nov 2019 10:36:57 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 10:36:40 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 10:41 AM
+Fri, 15 Nov 2019 10:41:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 10:40:46 오전 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 11:04 AM
+Fri, 15 Nov 2019 11:04:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 11:03:57 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 11:37 AM
+Fri, 15 Nov 2019 11:37:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 11:37:25 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 11:42 AM
+Fri, 15 Nov 2019 11:42:44 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 11:42:04 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 15 11:42:14 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 15 11:42:24 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 11:50 AM
+Fri, 15 Nov 2019 11:50:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 11:49:40 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           14. ResultSet.getString(SENDER_USER_MOBILE)
+IDC@hsgwportal02APP 11:55 AM
+Fri, 15 Nov 2019 11:55:17 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 11:54:36 오전 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 11:55:08 오전 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwmap02APP 12:02 PM
+Fri, 15 Nov 2019 12:02:13 +0900 | hsgwmap02 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 12:02:23 +0900 | hsgwmap02 : Exists
+app_tomcat : process is running with pid 21875
+IDC@hsgwmap01APP 12:03 PM
+Fri, 15 Nov 2019 12:03:07 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 12:03:17 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 3606
+IDC@hsgwmap02APP 12:04 PM
+Fri, 15 Nov 2019 12:04:34 +0900 | hsgwmap02 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 12:04:54 +0900 | hsgwmap02 : Exists
+app_tomcat : process is running with pid 22407
+IDC@hsgwmap01APP 12:05 PM
+Fri, 15 Nov 2019 12:05:28 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 12:05:38 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 4200
+Fri, 15 Nov 2019 12:06:58 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 12:07:18 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 4650
+IDC@hsgwportal01APP 12:33 PM
+Fri, 15 Nov 2019 12:32:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 12:32:10 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 12:35:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 12:35:47 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+11월 15 12:35:47 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+11월 15 12:35:47 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+11월 15 12:35:49 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal02APP 12:36 PM
+Fri, 15 Nov 2019 12:36:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 12:35:47 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+11월 15 12:35:48 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+11월 15 12:35:50 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+IDC@hsgwportal01APP 12:47 PM
+Fri, 15 Nov 2019 12:47:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 12:46:05 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 12:57 PM
+Fri, 15 Nov 2019 12:57:04 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 12:56:17 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+11월 15 12:56:26 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 1:05 PM
+Fri, 15 Nov 2019 13:05:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:04:52 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+Fri, 15 Nov 2019 13:07:36 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:06:43 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+11월 15 01:07:31 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 1:11 PM
+Fri, 15 Nov 2019 13:11:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:10:12 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+Fri, 15 Nov 2019 13:13:08 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:12:53 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 15 01:13:00 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 1:18 PM
+Fri, 15 Nov 2019 13:18:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:18:06 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 1:19 PM
+Fri, 15 Nov 2019 13:19:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:18:44 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 1:20 PM
+Fri, 15 Nov 2019 13:20:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:19:58 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 1:31 PM
+Fri, 15 Nov 2019 13:31:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:31:10 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 1:41 PM
+Fri, 15 Nov 2019 13:41:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:41:12 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 1:48 PM
+Fri, 15 Nov 2019 13:48:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:48:21 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 1:56 PM
+Fri, 15 Nov 2019 13:56:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 01:56:47 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 1:57 PM
+Fri, 15 Nov 2019 13:57:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 01:56:49 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 2:34 PM
+Fri, 15 Nov 2019 14:34:30 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 02:33:39 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 2:46 PM
+Fri, 15 Nov 2019 14:46:33 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 02:45:51 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 2:52 PM
+Fri, 15 Nov 2019 14:52:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 02:51:02 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 3:01 PM
+Fri, 15 Nov 2019 15:01:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 03:00:30 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+Fri, 15 Nov 2019 15:04:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 03:03:42 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 3:07 PM
+Fri, 15 Nov 2019 15:07:38 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 03:07:15 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 3:13 PM
+Fri, 15 Nov 2019 15:13:08 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 03:12:54 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal02APP 3:23 PM
+Fri, 15 Nov 2019 15:23:11 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 03:22:42 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0];
+IDC@hsgwportal01APP 3:25 PM
+Fri, 15 Nov 2019 15:25:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 03:24:57 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Fri, 15 Nov 2019 15:27:44 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 03:26:58 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 4:07 PM
+Fri, 15 Nov 2019 16:07:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 04:07:02 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+IDC@hsgwportal02APP 4:18 PM
+Fri, 15 Nov 2019 16:18:25 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 04:18:21 오후 ERROR - CalendarController.updateNew(1773) |                           googleUpdateException : null
+IDC@hsgwportal01APP 4:25 PM
+Fri, 15 Nov 2019 16:24:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 04:24:10 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 4:38 PM
+Fri, 15 Nov 2019 16:38:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 04:37:45 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal02APP 5:26 PM
+Fri, 15 Nov 2019 17:26:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 05:26:29 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0];
+IDC@hsgwportal01APP 5:32 PM
+Fri, 15 Nov 2019 17:32:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 05:31:51 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 5:54 PM
+Fri, 15 Nov 2019 17:54:22 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 05:53:58 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 6:14 PM
+Fri, 15 Nov 2019 18:14:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 06:14:17 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           13. PreparedStatement.execute() FAILED!   SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;  /* [CallForward_User_SqlMap.xml] lightpack.callFoward.dao.getUser */   SELECT    a.ID as id,    a.USER_ID as userId,       a.USER_NAME as userName,       a.SHCHEDULE_STATUS as scheduleStatus,       a.START_TIME as startTime,       a.END_TIME as endTime,       a.CREATE_TIME as createTime,       a.UPDATE_TIME as up
+...
+IDC@hsgwportal01APP 6:30 PM
+Fri, 15 Nov 2019 18:30:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 06:30:12 오후 ERROR - CalendarController.create(1668) |                           googleCreateException : null
+IDC@hsgwportal01APP 6:56 PM
+Fri, 15 Nov 2019 18:56:39 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 18:56:49 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 19799
+IDC@hsgwportal02APP 6:57 PM
+Fri, 15 Nov 2019 18:57:26 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 18:57:36 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 7624
+IDC@hsgwportal01APP 7:07 PM
+Fri, 15 Nov 2019 19:07:42 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:06:47 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:D3595 - I/O error: Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+IDC@hsgwportal02APP 7:21 PM
+Fri, 15 Nov 2019 19:21:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 15 07:20:21 오후 ERROR - CallForwardServiceImpl.turnOff(98) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal01APP 7:29 PM
+Fri, 15 Nov 2019 19:29:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:29:32 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - I/O error: Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+IDC@hsgwportal01APP 7:34 PM
+Fri, 15 Nov 2019 19:34:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:34:06 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - I/O error: Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+Fri, 15 Nov 2019 19:35:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:34:58 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Fri, 15 Nov 2019 19:39:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:39:17 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - I/O error: Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+IDC@hsgwportal01APP 7:45 PM
+Fri, 15 Nov 2019 19:45:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:45:48 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - I/O error: Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+IDC@hsgwportal01APP 7:51 PM
+Fri, 15 Nov 2019 19:51:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:51:12 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Fri, 15 Nov 2019 19:54:54 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:54:34 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Fri, 15 Nov 2019 19:57:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 15 07:56:58 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 8:09 PM
+Fri, 15 Nov 2019 20:09:54 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 20:10:04 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 11862
+IDC@hsgwportal01APP 8:12 PM
+Fri, 15 Nov 2019 20:12:49 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Fri, 15 Nov 2019 20:13:29 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 24583
+IDC@hsgwportal01APP 3:24 AM
+Sat, 16 Nov 2019 03:24:20 +0900 | hsgwportal01 : Heartbeat failed
+monit : No report from Monit for 33 seconds: the network, the host or Monit is down. Last report was 16 Nov 2019 03:23:47 +0900
+IDC@hsgwportal02APP 3:24 AM
+Sat, 16 Nov 2019 03:24:30 +0900 | hsgwportal02 : Heartbeat failed
+monit : No report from Monit for 35 seconds: the network, the host or Monit is down. Last report was 16 Nov 2019 03:23:55 +0900
+Sat, 16 Nov 2019 03:24:40 +0900 | hsgwportal02 : Heartbeat recovery
+monit : Monit status report received successfully
+IDC@hsgwportal01APP 3:24 AM
+Sat, 16 Nov 2019 03:24:55 +0900 | hsgwportal01 : Heartbeat recovery
+monit : Monit status report received successfully
+IDC@hsgwportal02APP 3:31 AM
+Sat, 16 Nov 2019 03:31:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 16 03:30:19 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           20. ResultSet.next()
+IDC@hsgwportal01APP 4:30 AM
+Sat, 16 Nov 2019 04:30:20 +0900 | hsgwportal01 : Heartbeat failed
+monit : No report from Monit for 33 seconds: the network, the host or Monit is down. Last report was 16 Nov 2019 04:29:47 +0900
+IDC@hsgwportal02APP 4:30 AM
+Sat, 16 Nov 2019 04:30:20 +0900 | hsgwportal02 : Heartbeat failed
+monit : No report from Monit for 32 seconds: the network, the host or Monit is down. Last report was 16 Nov 2019 04:29:48 +0900
+IDC@hsgwportal01APP 4:30 AM
+Sat, 16 Nov 2019 04:30:25 +0900 | hsgwportal01 : Heartbeat recovery
+monit : Monit status report received successfully
+IDC@hsgwportal02APP 4:30 AM
+Sat, 16 Nov 2019 04:30:25 +0900 | hsgwportal02 : Heartbeat recovery
+monit : Monit status report received successfully
+IDC@hsgwportal01APP 8:57 AM
+Mon, 18 Nov 2019 08:57:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 08:56:42 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 9:36 AM
+Mon, 18 Nov 2019 09:36:45 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:36:16 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 18 09:36:21 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Mon, 18 Nov 2019 09:37:45 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:37:07 오전 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Mon, 18 Nov 2019 09:41:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:40:49 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 9:46 AM
+Mon, 18 Nov 2019 09:46:48 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:45:57 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 18 09:45:58 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Mon, 18 Nov 2019 09:48:48 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:48:24 오전 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+Mon, 18 Nov 2019 09:50:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 09:50:40 오전 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - 500 Internal Server Error
+IDC@hsgwportal02APP 10:59 AM
+Mon, 18 Nov 2019 10:59:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 18 10:59:13 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwmap01APP 12:09 PM
+Mon, 18 Nov 2019 12:09:50 +0900 | hsgwmap01 : Does not exist
+app_tomcat : process is not running
+Mon, 18 Nov 2019 12:10:00 +0900 | hsgwmap01 : Exists
+app_tomcat : process is running with pid 26396
+IDC@hsgwmap02APP 12:11 PM
+Mon, 18 Nov 2019 12:11:17 +0900 | hsgwmap02 : Does not exist
+app_tomcat : process is not running
+Mon, 18 Nov 2019 12:11:27 +0900 | hsgwmap02 : Exists
+app_tomcat : process is running with pid 4989
+IDC@hsgwportal01APP 12:14 PM
+Mon, 18 Nov 2019 12:14:47 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Mon, 18 Nov 2019 12:14:57 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 23517
+IDC@hsgwportal01APP 1:27 PM
+Mon, 18 Nov 2019 13:27:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 01:27:02 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 1:43 PM
+Mon, 18 Nov 2019 13:43:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 01:43:50 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Mon, 18 Nov 2019 13:44:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 01:44:08 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+11월 18 01:44:37 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+IDC@hsgwmap01APP 1:59 PM
+Mon, 18 Nov 2019 13:59:49 +0900 | hsgwmap01 : Monit instance changed
+monit : Monit reloaded
+IDC@hsgwmap02APP 2:01 PM
+Mon, 18 Nov 2019 14:01:05 +0900 | hsgwmap02 : Monit instance changed
+monit : Monit reloaded
+IDC@hsgwmap01APP 2:03 PM
+Mon, 18 Nov 2019 14:03:50 +0900 | hsgwmap01 : Content match
+check_clienterror_log : content match:
+TEST_ClientError
+Mon, 18 Nov 2019 14:04:50 +0900 | hsgwmap01 : Content match
+check_mailerror_log : content match:
+TEST_MailError
+Mon, 18 Nov 2019 14:05:51 +0900 | hsgwmap01 : Content match
+check_ehrerror_log : content match:
+TEST_EhrError
+IDC@hsgwmap02APP 2:07 PM
+Mon, 18 Nov 2019 14:07:06 +0900 | hsgwmap02 : Content match
+check_clienterror_log : content match:
+TEST_ClientError
+IDC@hsgwmap02APP 2:14 PM
+Mon, 18 Nov 2019 14:14:08 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+TEST_MailError
+Mon, 18 Nov 2019 14:15:08 +0900 | hsgwmap02 : Content match
+check_ehrerror_log : content match:
+TEST_EhrError
+IDC@hsgwportal01APP 2:57 PM
+Mon, 18 Nov 2019 14:57:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 02:56:14 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:50505 - 500 Internal Server Error
+IDC@hsgwportal02APP 3:35 PM
+Mon, 18 Nov 2019 15:35:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 18 03:34:50 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:05 PM
+Mon, 18 Nov 2019 16:05:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 18 04:05:27 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 4:43 PM
+Mon, 18 Nov 2019 16:43:38 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 04:43:15 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 18 04:43:15 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 6:02 PM
+Mon, 18 Nov 2019 18:02:09 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 18 06:01:50 오후 ERROR - CallForwardServiceImpl.turnOff(98) |                           Call Forward Api - User:50505 - 500 Internal Server Error
+IDC@hsgwportal01APP 7:05 PM
+Mon, 18 Nov 2019 19:05:16 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 18 07:05:09 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:D3458 - 500 Internal Server Error
+IDC@hsgwportal02APP 9:02 AM
+Tue, 19 Nov 2019 09:01:58 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 09:01:51 오전 ERROR - CallForwardServiceImpl.turnOn(75) |                           Call Forward Api - User:50505 - 500 Internal Server Error
+Tue, 19 Nov 2019 09:02:58 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 09:02:12 오전 ERROR - CallForwardServiceImpl.turnOn(75) |                           Call Forward Api - User:D3458 - 500 Internal Server Error
+IDC@hsgwportal01APP 9:26 AM
+Tue, 19 Nov 2019 09:25:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 09:25:12 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 19 09:25:12 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 10:02 AM
+Tue, 19 Nov 2019 10:02:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 10:01:20 오전 ERROR - CallForwardServiceImpl.turnOn(75) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+IDC@hsgwportal01APP 10:07 AM
+Tue, 19 Nov 2019 10:07:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 10:06:44 오전 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 10:11:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 10:10:18 오전 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 10:12:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 10:11:33 오전 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 10:13:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 10:12:36 오전 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+IDC@hsgwportal02APP 10:30 AM
+Tue, 19 Nov 2019 10:30:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 10:29:52 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 11:31 AM
+Tue, 19 Nov 2019 11:31:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 11:31:24 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 1:21 PM
+Tue, 19 Nov 2019 13:21:30 +0900 | hsgwportal01 : Heartbeat failed
+monit : No report from Monit for 33 seconds: the network, the host or Monit is down. Last report was 19 Nov 2019 13:20:57 +0900
+Tue, 19 Nov 2019 13:21:35 +0900 | hsgwportal01 : Heartbeat recovery
+monit : Monit status report received successfully
+Tue, 19 Nov 2019 13:23:03 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 01:22:48 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Tue, 19 Nov 2019 13:24:54 +0900 | hsgwportal01 : Link down
+nic_eth2 : link down
+Tue, 19 Nov 2019 13:26:55 +0900 | hsgwportal01 : Link up
+nic_eth2 : link up
+IDC@hsgwmap01APP 1:28 PM
+Tue, 19 Nov 2019 13:28:47 +0900 | hsgwmap01 : Link down
+nic_eth2 : link down
+Tue, 19 Nov 2019 13:29:37 +0900 | hsgwmap01 : Link up
+nic_eth2 : link up
+IDC@hsgwportal02APP 1:30 PM
+Tue, 19 Nov 2019 13:30:07 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 01:29:27 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 2:23 PM
+Tue, 19 Nov 2019 14:23:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 02:22:44 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 3:17 PM
+Tue, 19 Nov 2019 15:17:34 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 03:16:39 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:13 PM
+Tue, 19 Nov 2019 16:13:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:12:56 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:D3595 - I/O error: 연결 시간 초과; nested exception is java.net.ConnectException: 연결 시간 초과
+11월 19 04:13:42 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:21245 - I/O error: 연결 시간 초과; nested exception is java.net.ConnectException: 연결 시간 초과
+Tue, 19 Nov 2019 16:16:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:16:05 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 16:19:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:19:12 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 16:20:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:20:11 오후 ERROR - CallForwardController.disable(170) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+Tue, 19 Nov 2019 16:21:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:21:42 오후 ERROR - CallForwardController.enable(141) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+IDC@hsgwportal01APP 4:47 PM
+Tue, 19 Nov 2019 16:46:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 04:46:23 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 5:03 PM
+Tue, 19 Nov 2019 17:03:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 05:02:19 오후 ERROR - CallForwardServiceImpl.turnOff(98) |                           Call Forward Api - User:21245 - 500 Internal Server Error
+IDC@hsgwportal01APP 6:03 PM
+Tue, 19 Nov 2019 18:03:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 06:02:55 오후 ERROR - CallForwardServiceImpl.turnOff(98) |                           Call Forward Api - User:50505 - 500 Internal Server Error
+IDC@hsgwportal02APP 6:04 PM
+Tue, 19 Nov 2019 18:04:18 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 06:03:53 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 6:21 PM
+Tue, 19 Nov 2019 18:21:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 06:20:48 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 6:55 PM
+Tue, 19 Nov 2019 18:55:01 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Tue, 19 Nov 2019 18:55:11 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 23956
+IDC@hsgwportal01APP 6:57 PM
+Tue, 19 Nov 2019 18:57:53 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Tue, 19 Nov 2019 18:58:03 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 12191
+IDC@hsgwportal02APP 8:01 PM
+Tue, 19 Nov 2019 20:01:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 08:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-6855-3559, email=soonkee@gsshop.com}
+11월 19 08:01:14 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+11월 19 08:01:34 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+...
+Tue, 19 Nov 2019 20:02:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 08:01:53 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal02APP 9:01 PM
+Tue, 19 Nov 2019 21:01:03 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 09:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-6855-3559, email=soonkee@gsshop.com}
+Tue, 19 Nov 2019 21:02:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 09:01:15 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+11월 19 09:01:35 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+11월 19 09:01:55 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+...
+IDC@hsgwportal02APP 10:01 PM
+Tue, 19 Nov 2019 22:01:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 10:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-6855-3559, email=soonkee@gsshop.com}
+11월 19 10:01:15 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+Tue, 19 Nov 2019 22:02:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 19 10:01:35 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+11월 19 10:01:55 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal01APP 11:01 PM
+Tue, 19 Nov 2019 23:01:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 11:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-6855-3559, email=soonkee@gsshop.com}
+11월 19 11:01:15 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+11월 19 11:01:34 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+...
+Tue, 19 Nov 2019 23:02:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 19 11:01:53 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal01APP 9:01 AM
+Wed, 20 Nov 2019 09:01:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:01:00 오전 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+Wed, 20 Nov 2019 09:02:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:01:20 오전 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal02APP 1:38 PM
+Wed, 20 Nov 2019 13:38:18 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 01:37:48 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 2:02 PM
+Wed, 20 Nov 2019 14:02:24 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 02:01:26 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 3:02 PM
+Wed, 20 Nov 2019 15:02:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 03:01:53 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:14 PM
+Wed, 20 Nov 2019 15:14:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 03:13:53 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:48 PM
+Wed, 20 Nov 2019 15:48:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 03:47:13 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 20 03:47:13 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 4:05 PM
+Wed, 20 Nov 2019 16:05:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 04:04:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 20 04:04:22 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Wed, 20 Nov 2019 16:09:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 04:08:33 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 4:22 PM
+Wed, 20 Nov 2019 16:22:00 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 04:21:50 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 5:01 PM
+Wed, 20 Nov 2019 17:01:21 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 05:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+11월 20 05:01:20 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+Wed, 20 Nov 2019 17:02:21 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 05:01:41 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal02APP 5:06 PM
+Wed, 20 Nov 2019 17:06:12 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 05:05:32 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 6:01 PM
+Wed, 20 Nov 2019 18:01:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+11월 20 06:01:20 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4003-3979, email=leehm@gsshop.com}
+Wed, 20 Nov 2019 18:02:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:01:40 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-4332-0418, email=thenm@it.gsshop.com}
+IDC@hsgwportal02APP 6:34 PM
+Wed, 20 Nov 2019 18:34:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:34:24 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           4. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21588', CURRENT_TIMESTAMP)    {FAILED after 14 msec}
+Wed, 20 Nov 2019 18:36:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:35:39 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           20. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22806', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 6:37 PM
+Wed, 20 Nov 2019 18:37:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 06:37:17 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           3. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21657', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 6:38 PM
+Wed, 20 Nov 2019 18:38:36 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:37:37 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           4. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10298', CURRENT_TIMESTAMP)    {FAILED after 2 msec}
+Wed, 20 Nov 2019 18:42:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:41:49 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'D3494', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 18:45:38 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:45:32 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           16. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23321', CURRENT_TIMESTAMP)    {FAILED after 0 msec}
+IDC@hsgwportal01APP 6:46 PM
+Wed, 20 Nov 2019 18:46:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 06:46:41 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           10. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22786', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 18:50:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 06:50:48 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21980', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 18:53:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 06:52:59 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           20. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23312', CURRENT_TIMESTAMP)    {FAILED after 2 msec}
+Wed, 20 Nov 2019 18:54:51 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 06:53:55 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           15. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10980', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 6:55 PM
+Wed, 20 Nov 2019 18:55:41 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 06:55:16 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22934', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 7:01 PM
+Wed, 20 Nov 2019 19:01:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:00:53 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           16. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22125', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 07:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(70) |                           Call Forward Api - User:{phoneNumber=010-3710-0522, email=werini@gsshop.com}
+...
+Wed, 20 Nov 2019 19:03:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:03:28 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           8. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10283', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 19:04:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:04:26 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           18. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22974', CURRENT_TIMESTAMP)    {FAILED after 0 msec}
+IDC@hsgwportal01APP 7:06 PM
+Wed, 20 Nov 2019 19:06:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:06:39 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '00040', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 19:08:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:08:19 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           20. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '56647', CURRENT_TIMESTAMP)    {FAILED after 2 msec}
+Wed, 20 Nov 2019 19:09:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:09:34 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '20875', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 7:20 PM
+Wed, 20 Nov 2019 19:19:58 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:19:02 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           6. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23187', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 07:19:25 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           10. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '20105'… Show more
+IDC@hsgwportal02APP 7:20 PM
+Wed, 20 Nov 2019 19:20:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:20:03 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           8. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '01014', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 7:23 PM
+Wed, 20 Nov 2019 19:22:59 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:22:50 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '20643', CURRENT_TIMESTAMP)    {FAILED after 5 msec}
+Wed, 20 Nov 2019 19:26:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:25:15 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '60680', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 07:25:17 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '51327… Show more
+Wed, 20 Nov 2019 19:27:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:26:06 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21150', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 07:26:11 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '20082… Show more
+Wed, 20 Nov 2019 19:28:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:27:45 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22824', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 7:28 PM
+Wed, 20 Nov 2019 19:28:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:27:56 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           16. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22634', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 7:35 PM
+Wed, 20 Nov 2019 19:35:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:35:04 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           4. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'G0133', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 7:46 PM
+Wed, 20 Nov 2019 19:46:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:46:08 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23186', CURRENT_TIMESTAMP)    {FAILED after 6 msec}
+11월 20 07:46:19 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           18. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21391… Show more
+Wed, 20 Nov 2019 19:47:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:47:54 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'admin', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 19:48:55 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:48:50 오후 ERROR - CallForwardController.enable(142) |                           Call Forward Api - User:D3595 - [nullset-forwarding-enable] is not a valid HTTP URL
+IDC@hsgwportal01APP 7:49 PM
+Wed, 20 Nov 2019 19:49:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:48:55 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '59785', CURRENT_TIMESTAMP)    {FAILED after 6 msec}
+IDC@hsgwportal02APP 7:49 PM
+Wed, 20 Nov 2019 19:49:55 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:49:24 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           11. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'D3595', CURRENT_TIMESTAMP)    {FAILED after 16 msec}
+11월 20 07:49:33 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - [nullset-forwarding-disable] is not a valid HTTP URL
+...
+Wed, 20 Nov 2019 19:50:55 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:50:18 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - [nullset-forwarding-disable] is not a valid HTTP URL
+Wed, 20 Nov 2019 19:51:56 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:51:07 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - [nullset-forwarding-disable] is not a valid HTTP URL
+11월 20 07:51:40 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - [nullset-forwarding-disable] is not a valid HTTP URL
+IDC@hsgwportal01APP 7:54 PM
+Wed, 20 Nov 2019 19:54:07 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 07:53:07 오후 ERROR - CallForwardController.disable(172) |                           Call Forward Api - User:D3595 - [nullset-forwarding-disable] is not a valid HTTP URL
+IDC@hsgwportal02APP 7:54 PM
+Wed, 20 Nov 2019 19:54:56 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:54:08 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           17. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22573', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 19:56:57 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:56:55 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           17. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22941', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 19:59:58 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 07:59:49 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+Wed, 20 Nov 2019 20:00:48 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Wed, 20 Nov 2019 20:01:08 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 28854
+IDC@hsgwportal01APP 8:01 PM
+Wed, 20 Nov 2019 20:01:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 08:01:00 오후 ERROR - CallForwardServiceImpl.turnOn(87) |                           Call Forward Api
+Wed, 20 Nov 2019 20:04:00 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Wed, 20 Nov 2019 20:04:10 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 15684
+IDC@hsgwportal02APP 8:06 PM
+Wed, 20 Nov 2019 20:05:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 08:05:07 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22713', CURRENT_TIMESTAMP)    {FAILED after 6 msec}
+11월 20 08:05:26 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22984… Show more
+IDC@hsgwportal01APP 8:10 PM
+Wed, 20 Nov 2019 20:10:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 08:10:00 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10253', CURRENT_TIMESTAMP)    {FAILED after 5 msec}
+IDC@hsgwportal01APP 8:39 PM
+Wed, 20 Nov 2019 20:39:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 08:38:42 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '17468', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 8:49 PM
+Wed, 20 Nov 2019 20:49:11 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 08:48:10 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23204', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 8:49 PM
+Wed, 20 Nov 2019 20:49:22 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 08:48:26 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           15. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23100', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 08:49:07 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           19. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22939… Show more
+IDC@hsgwportal02APP 9:05 PM
+Wed, 20 Nov 2019 21:05:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 09:04:28 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           16. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22977', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 9:22 PM
+Wed, 20 Nov 2019 21:22:31 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:21:42 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           20. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23142', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 9:27 PM
+Wed, 20 Nov 2019 21:27:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:26:55 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           15. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '01013', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 9:28 PM
+Wed, 20 Nov 2019 21:28:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 09:28:13 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           18. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'P1054', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 9:33 PM
+Wed, 20 Nov 2019 21:33:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 20 09:32:50 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 9:38 PM
+Wed, 20 Nov 2019 21:38:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:38:27 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           13. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'D2300', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 9:44 PM
+Wed, 20 Nov 2019 21:44:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:44:10 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22823', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+11월 20 09:44:36 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           11. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'D1305… Show more
+Wed, 20 Nov 2019 21:48:38 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:48:27 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           15. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '23362', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+Wed, 20 Nov 2019 21:51:39 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:51:00 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           13. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10459', CURRENT_TIMESTAMP)    {FAILED after 0 msec}
+Wed, 20 Nov 2019 21:54:39 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 09:53:57 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '20807', CURRENT_TIMESTAMP)    {FAILED after 2 msec}
+IDC@hsgwportal01APP 10:00 PM
+Wed, 20 Nov 2019 22:00:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 10:00:15 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           11. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10120', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 10:17 PM
+Wed, 20 Nov 2019 22:17:45 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 10:17:35 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           20. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '10335', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal01APP 10:22 PM
+Wed, 20 Nov 2019 22:22:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 10:21:55 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           15. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'D3520', CURRENT_TIMESTAMP)    {FAILED after 5 msec}
+IDC@hsgwportal01APP 10:42 PM
+Wed, 20 Nov 2019 22:42:52 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 20 10:42:05 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           11. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', 'G0093', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 9:05 AM
+Thu, 21 Nov 2019 09:05:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 09:05:01 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Thu, 21 Nov 2019 09:08:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 09:07:42 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           12. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '22603', CURRENT_TIMESTAMP)    {FAILED after 6 msec}
+IDC@hsgwportal02APP 9:46 AM
+Thu, 21 Nov 2019 09:46:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 09:45:49 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 21 09:45:49 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 10:05 AM
+Thu, 21 Nov 2019 10:05:36 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:05:18 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 10:13 AM
+Thu, 21 Nov 2019 10:13:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 21 10:13:33 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 10:14 AM
+Thu, 21 Nov 2019 10:14:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:13:56 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:22 AM
+Thu, 21 Nov 2019 10:22:41 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:22:32 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:32 AM
+Thu, 21 Nov 2019 10:32:44 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:32:28 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:37 AM
+Thu, 21 Nov 2019 10:37:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:37:01 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+Thu, 21 Nov 2019 10:41:46 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 10:40:56 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 11:25 AM
+Thu, 21 Nov 2019 11:25:02 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 11:24:12 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(128) |                           21. PreparedStatement.execute() FAILED!       INSERT INTO IKEP4_BD_REFERENCE /* [Board_Reference_SqlMap.xml] lightpack.board.dao.boardReference.insert */             (ITEM_ID, REGISTER_ID, REGIST_DATE)     VALUES ('191124000000', '21976', CURRENT_TIMESTAMP)    {FAILED after 1 msec}
+IDC@hsgwportal02APP 11:37 AM
+Thu, 21 Nov 2019 11:37:11 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 11:36:15 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 21 11:36:18 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 21 11:36:18 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 21 11:36:18 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+ Show more
+IDC@hsgwportal02APP 1:16 PM
+Thu, 21 Nov 2019 13:16:37 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:16:09 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:23 PM
+Thu, 21 Nov 2019 13:23:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:22:47 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 21 01:22:47 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+Thu, 21 Nov 2019 13:25:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:25:27 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:34 PM
+Thu, 21 Nov 2019 13:34:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:34:32 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:44 PM
+Thu, 21 Nov 2019 13:44:44 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:43:59 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:56 PM
+Thu, 21 Nov 2019 13:56:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 01:55:47 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwmap02APP 4:51 PM
+Thu, 21 Nov 2019 16:50:59 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+16:50:47.864 [ajp-bio-7009-exec-12] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 20786 || Page : 3 || folderId : AQMkADg5ZDQwZDgzLTMxZTQtNGNiMi04M2IyLWNjAGYzZTllNWJkMmUALgAAA/DkbKsK2+9AimndMVt+kqcBAHAJqiHsrVZMgHqbHBIbVHYAAAIBDQAAAA==
+IDC@hsgwportal01APP 5:19 PM
+Thu, 21 Nov 2019 17:19:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 21 05:19:08 오후 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           19. ResultSet.getString(SENDER_USER_MOBILE)
+IDC@hsgwportal02APP 5:25 PM
+Thu, 21 Nov 2019 17:25:42 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 05:24:49 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:45 PM
+Thu, 21 Nov 2019 17:45:27 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 17:45:37 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 22293
+IDC@hsgwportal01APP 5:48 PM
+Thu, 21 Nov 2019 17:48:13 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 17:48:23 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 29447
+IDC@hsgwportal02APP 6:02 PM
+Thu, 21 Nov 2019 18:02:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 06:01:52 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 6:12 PM
+Thu, 21 Nov 2019 18:12:04 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 18:12:24 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 26211
+IDC@hsgwportal01APP 6:15 PM
+Thu, 21 Nov 2019 18:15:31 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 18:15:41 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 605
+IDC@hsgwportal02APP 7:34 PM
+Thu, 21 Nov 2019 19:34:05 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 19:34:16 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 2286
+IDC@hsgwportal02APP 7:59 PM
+Thu, 21 Nov 2019 19:59:42 +0900 | hsgwportal02 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 19:59:52 +0900 | hsgwportal02 : Exists
+app_tomcat : process is running with pid 4937
+IDC@hsgwportal01APP 8:02 PM
+Thu, 21 Nov 2019 20:02:19 +0900 | hsgwportal01 : Does not exist
+app_tomcat : process is not running
+Thu, 21 Nov 2019 20:02:29 +0900 | hsgwportal01 : Exists
+app_tomcat : process is running with pid 9625
+IDC@hsgwportal02APP 8:06 PM
+Thu, 21 Nov 2019 20:06:24 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 08:06:00 오후 ERROR - CallForwardServiceImpl.turnOff(178) |                           java.sql.SQLException: Error: executeQueryForObject returned too many results. - SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; Error: executeQueryForObject returned too many results.; nested exception is java.sql.SQLException: Error: executeQueryForObject returned too many results.
+11월 21 08:06:00 오후 ERROR - CallForwardServiceImpl.turnOff(202) |                           java.sql.SQLException: Error: executeQueryForObject returned too many results. - SqlMapClient operation; uncategorized SQLException for SQL []; SQL state [null]; error code [0… Show more
+IDC@hsgwportal01APP 8:34 PM
+Thu, 21 Nov 2019 20:34:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 21 08:34:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 21 08:34:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 21 08:34:23 오후 ERROR - RunnablePost.run(44) |                           Call Forward Api
+IDC@hsgwportal02APP 9:05 PM
+Thu, 21 Nov 2019 21:05:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 21 09:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 21 09:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 8:01 AM
+Fri, 22 Nov 2019 08:01:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Fri, 22 Nov 2019 09:01:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 22 09:01:02 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:17 AM
+Fri, 22 Nov 2019 09:17:57 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 09:17:28 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 9:29 AM
+Fri, 22 Nov 2019 09:29:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 09:28:33 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 10:01 AM
+Fri, 22 Nov 2019 10:01:09 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 22 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:01 AM
+Fri, 22 Nov 2019 11:01:25 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 22 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+Fri, 22 Nov 2019 11:05:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 11:05:09 오전 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 11:16 AM
+Fri, 22 Nov 2019 11:16:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 11:15:59 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 11:20 AM
+Fri, 22 Nov 2019 11:20:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 11:19:42 오전 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 11:29 AM
+Fri, 22 Nov 2019 11:29:33 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 11:28:36 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 22 11:29:31 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 11:40 AM
+Fri, 22 Nov 2019 11:40:41 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 11:40:07 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 1:19 PM
+Fri, 22 Nov 2019 13:19:06 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 01:18:56 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:01 PM
+Fri, 22 Nov 2019 14:01:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 02:01:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+Fri, 22 Nov 2019 14:03:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 02:02:03 오후 ERROR - RunnablePost.run(44) |                           Call Forward Api
+IDC@hsgwportal02APP 3:59 PM
+Fri, 22 Nov 2019 15:59:32 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 03:58:44 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 4:01 PM
+Fri, 22 Nov 2019 16:01:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 04:01:43 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 22 Nov 2019 16:03:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 04:03:46 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:48 PM
+Fri, 22 Nov 2019 16:48:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 04:47:08 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 22 Nov 2019 16:52:03 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 04:51:32 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Fri, 22 Nov 2019 17:05:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 05:05:05 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 22 05:05:05 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal02APP 5:19 PM
+Fri, 22 Nov 2019 17:19:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 22 05:19:36 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 5:55 PM
+Fri, 22 Nov 2019 17:55:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 05:55:10 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 22 Nov 2019 17:57:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 05:56:24 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Fri, 22 Nov 2019 17:59:21 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 05:58:33 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 6:05 PM
+Fri, 22 Nov 2019 18:05:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 22 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 22 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 8:01 AM
+Mon, 25 Nov 2019 08:01:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:01 AM
+Mon, 25 Nov 2019 09:01:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 09:01:04 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 25 09:01:04 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:03 AM
+Mon, 25 Nov 2019 09:03:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 09:03:27 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22945
+IDC@hsgwportal02APP 9:13 AM
+Mon, 25 Nov 2019 09:13:23 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 09:13:00 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 9:30 AM
+Mon, 25 Nov 2019 09:30:00 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 09:29:03 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           10. ResultSet.getString(SENDER_USER_MOBILE)
+IDC@hsgwportal02APP 9:33 AM
+Mon, 25 Nov 2019 09:33:28 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 09:32:48 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 9:37 AM
+Mon, 25 Nov 2019 09:37:02 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 09:36:32 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+11월 25 09:36:32 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:38 AM
+Mon, 25 Nov 2019 09:38:29 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 09:37:38 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 9:46 AM
+Mon, 25 Nov 2019 09:46:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 09:45:48 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 10:01 AM
+Mon, 25 Nov 2019 10:01:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 25 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:40 AM
+Mon, 25 Nov 2019 10:40:19 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 10:39:32 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 25 10:39:32 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+Mon, 25 Nov 2019 10:43:20 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 10:43:04 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 25 10:43:04 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal01APP 10:51 AM
+Mon, 25 Nov 2019 10:51:22 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 10:50:27 오전 ERROR - Slf4jSpyLogDelegator.exceptionOccured(105) |                           9. ResultSet.getObject(GOOGLE_CAL_ID)
+IDC@hsgwportal01APP 11:01 AM
+Mon, 25 Nov 2019 11:01:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:02 AM
+Mon, 25 Nov 2019 11:02:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 11:02:40 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal01APP 11:28 AM
+Mon, 25 Nov 2019 11:28:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 11:27:37 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 25 11:27:37 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal02APP 11:39 AM
+Mon, 25 Nov 2019 11:39:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 11:38:09 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:14 PM
+Mon, 25 Nov 2019 13:14:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 01:14:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 25 01:14:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 1:20 PM
+Mon, 25 Nov 2019 13:20:01 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 01:19:12 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 1:44 PM
+Mon, 25 Nov 2019 13:44:39 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 01:44:13 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:50 PM
+Mon, 25 Nov 2019 13:50:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 01:49:57 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 2:01 PM
+Mon, 25 Nov 2019 14:01:12 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 02:01:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 2:11 PM
+Mon, 25 Nov 2019 14:11:15 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 02:10:30 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal02APP 2:16 PM
+Mon, 25 Nov 2019 14:16:47 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 02:16:25 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 2:22 PM
+Mon, 25 Nov 2019 14:22:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 02:21:57 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 2:24 PM
+Mon, 25 Nov 2019 14:24:49 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 02:24:47 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:31 PM
+Mon, 25 Nov 2019 14:31:51 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 02:31:33 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwmap02APP 2:52 PM
+Mon, 25 Nov 2019 14:52:42 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:51:53.964 [ajp-bio-7009-exec-7] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:52:02.979 [ajp-bio-7009-exec-14] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:52:04.799 [ajp-bio-7009-exec-21] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:52:05.604 [ajp-bio-7009-exec-15] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+ Show more
+Mon, 25 Nov 2019 14:53:43 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:53:00.382 [ajp-bio-7009-exec-7] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:53:00.385 [ajp-bio-7009-exec-17] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:53:00.386 [ajp-bio-7009-exec-14] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:53:00.388 [ajp-bio-7009-exec-21] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+ Show more
+Mon, 25 Nov 2019 14:56:43 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:56:43.795 [ajp-bio-7009-exec-21] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:43.797 [ajp-bio-7009-exec-15] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:43.798 [ajp-bio-7009-exec-14] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:43.800 [ajp-bio-7009-exec-17] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+ Show more
+Mon, 25 Nov 2019 14:57:44 +0900 | hsgwmap02 : Content match
+check_mailerror_log : content match:
+14:56:43.856 [ajp-bio-7009-exec-21] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:43.858 [ajp-bio-7009-exec-17] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:43.860 [ajp-bio-7009-exec-15] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+14:56:44.216 [ajp-bio-7009-exec-14] ERROR c.l.i.m.m.r.r.ews.MailRestful - [MailError] UserId : 22248 || Page : 1 || folderId : URB
+ Show more
+IDC@hsgwportal02APP 3:22 PM
+Mon, 25 Nov 2019 15:22:04 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 03:22:03 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 3:33 PM
+Mon, 25 Nov 2019 15:33:07 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 03:32:29 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:01 PM
+Mon, 25 Nov 2019 16:01:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 04:01:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 25 04:01:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 4:26 PM
+Mon, 25 Nov 2019 16:26:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 04:25:55 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 25 04:26:04 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 4:47 PM
+Mon, 25 Nov 2019 16:47:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 04:46:44 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:04 PM
+Mon, 25 Nov 2019 17:04:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 05:04:28 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+Mon, 25 Nov 2019 17:05:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 25 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:05 PM
+Mon, 25 Nov 2019 18:05:18 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 25 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 6:23 PM
+Mon, 25 Nov 2019 18:23:22 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 06:22:56 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+11월 25 06:23:03 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+IDC@hsgwportal02APP 6:25 PM
+Mon, 25 Nov 2019 18:25:52 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 25 06:24:59 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+11월 25 06:25:11 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+11월 25 06:25:12 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+11월 25 06:25:17 오후 ERROR - MeetingRoomRestful.isRoomReserve(138) |
+IDC@hsgwportal01APP 6:30 PM
+Mon, 25 Nov 2019 18:30:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 25 06:29:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+IDC@hsgwportal02APP 8:01 AM
+Tue, 26 Nov 2019 08:01:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 9:01 AM
+Tue, 26 Nov 2019 09:01:11 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 09:01:03 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+11월 26 09:01:03 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:31 AM
+Tue, 26 Nov 2019 09:31:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 09:31:29 오전 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+Tue, 26 Nov 2019 09:32:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 09:32:25 오전 ERROR - RequestContextAwareTag.doStartTag(86) |                           null
+IDC@hsgwportal01APP 9:45 AM
+Tue, 26 Nov 2019 09:45:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 09:45:10 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 26 09:45:10 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal01APP 10:01 AM
+Tue, 26 Nov 2019 10:01:27 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+11월 26 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:29 AM
+Tue, 26 Nov 2019 10:29:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 10:29:05 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Tue, 26 Nov 2019 10:32:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 10:32:12 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 10:48 AM
+Tue, 26 Nov 2019 10:48:40 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 10:47:40 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 11:01 AM
+Tue, 26 Nov 2019 11:01:08 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 11:14 AM
+Tue, 26 Nov 2019 11:14:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 11:14:35 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 26 11:14:35 오전 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+Tue, 26 Nov 2019 11:18:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 11:18:00 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 11:25 AM
+Tue, 26 Nov 2019 11:25:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 11:24:54 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 2:27 PM
+Tue, 26 Nov 2019 14:27:43 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 02:27:14 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 26 02:27:14 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal02APP 2:51 PM
+Tue, 26 Nov 2019 14:51:08 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 02:50:39 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:I/O error: Connection reset; nested exception is java.net.SocketException: Connection reset
+IDC@hsgwportal01APP 2:51 PM
+Tue, 26 Nov 2019 14:51:49 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 02:51:08 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 3:51 PM
+Tue, 26 Nov 2019 15:51:10 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 03:50:21 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:01 PM
+Tue, 26 Nov 2019 16:01:13 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 04:00:44 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 26 04:00:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 4:38 PM
+Tue, 26 Nov 2019 16:38:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 04:37:54 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:50 PM
+Tue, 26 Nov 2019 16:50:26 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 04:49:33 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 22833
+11월 26 04:49:33 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : P1067
+IDC@hsgwportal01APP 5:05 PM
+Tue, 26 Nov 2019 17:05:35 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 05:05:24 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Tue, 26 Nov 2019 17:05:43 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 26 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 5:46 PM
+Tue, 26 Nov 2019 17:46:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 05:46:36 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:48 PM
+Tue, 26 Nov 2019 17:48:54 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 05:48:00 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21189
+IDC@hsgwportal01APP 5:51 PM
+Tue, 26 Nov 2019 17:51:47 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 05:50:54 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 26 05:51:14 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 6:06 PM
+Tue, 26 Nov 2019 18:05:59 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 26 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 26 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+new messages
+IDC@hsgwportal01APP 6:19 PM
+Tue, 26 Nov 2019 18:19:55 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 26 06:19:04 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found

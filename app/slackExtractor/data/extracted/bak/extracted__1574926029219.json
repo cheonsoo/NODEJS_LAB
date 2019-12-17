@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2019-11-27T05:05:01.000Z",
+        "errMessage": "RunnablePost.clientResponsePost",
+        "errDetail": "11월 27 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch"
+    },
+    {
+        "date": "2019-11-27T05:05:01.000Z",
+        "errMessage": "RunnablePost.clientResponsePost",
+        "errDetail": "11월 27 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch"
+    },
+    {
+        "date": "2019-11-27T05:06:52.000Z",
+        "errMessage": "NewGoogleDataServiceImpl.exportUpdateSchedule",
+        "errDetail": "11월 27 05:06:52 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found"
+    },
+    {
+        "date": "2019-11-27T05:49:07.000Z",
+        "errMessage": "ApprAdminFormServiceImpl.getApprReferenceList",
+        "errDetail": "11월 27 05:49:07 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266"
+    },
+    {
+        "date": "2019-11-27T05:49:07.000Z",
+        "errMessage": "ApprAdminFormServiceImpl.getApprReferenceList",
+        "errDetail": "11월 27 05:49:07 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060"
+    },
+    {
+        "date": "2019-11-27T06:03:51.000Z",
+        "errMessage": "ApprAdminFormServiceImpl.getApprReferenceList",
+        "errDetail": "11월 27 06:03:51 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266"
+    },
+    {
+        "date": "2019-11-27T06:03:51.000Z",
+        "errMessage": "ApprAdminFormServiceImpl.getApprReferenceList",
+        "errDetail": "11월 27 06:03:51 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060"
+    },
+    {
+        "date": "2019-11-27T06:05:00.000Z",
+        "errMessage": "RunnablePost.clientResponsePost",
+        "errDetail": "11월 27 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch"
+    },
+    {
+        "date": "2019-11-27T06:05:00.000Z",
+        "errMessage": "RunnablePost.clientResponsePost",
+        "errDetail": "11월 27 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch"
+    }
+]

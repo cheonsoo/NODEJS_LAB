@@ -1,0 +1,113 @@
+IDC@hsgwportal02APP 8:01 AM
+Thu, 28 Nov 2019 08:01:45 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 8:53 AM
+Thu, 28 Nov 2019 08:52:58 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 08:52:21 오전 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 9:02 AM
+Thu, 28 Nov 2019 09:02:01 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 09:01:05 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+11월 28 09:01:05 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 9:18 AM
+Thu, 28 Nov 2019 09:18:05 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 09:17:08 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 9:24 AM
+Thu, 28 Nov 2019 09:24:14 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 28 09:24:13 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 10:01 AM
+Thu, 28 Nov 2019 10:01:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 28 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+11월 28 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 10:19 AM
+Thu, 28 Nov 2019 10:19:21 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 10:18:23 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           java.lang.NullPointerException
+IDC@hsgwportal02APP 11:01 AM
+Thu, 28 Nov 2019 11:01:31 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:33 AM
+Thu, 28 Nov 2019 11:33:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 11:32:40 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 1:40 PM
+Thu, 28 Nov 2019 13:40:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 01:39:15 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Thu, 28 Nov 2019 13:42:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 01:41:23 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 01:41:27 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 01:41:51 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 01:41:59 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+ Show more
+Thu, 28 Nov 2019 13:43:13 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 01:42:22 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+Thu, 28 Nov 2019 13:44:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 01:43:43 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 01:43:47 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 01:43:53 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 1:51 PM
+Thu, 28 Nov 2019 13:51:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 01:51:10 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 2:21 PM
+Thu, 28 Nov 2019 14:21:23 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 02:20:51 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 2:51 PM
+Thu, 28 Nov 2019 14:51:46 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 28 02:51:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 28 02:51:45 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal02APP 3:04 PM
+Thu, 28 Nov 2019 15:04:35 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 03:03:52 오후 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 3:08 PM
+Thu, 28 Nov 2019 15:08:50 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 28 03:08:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 28 03:08:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+11월 28 03:08:26 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+11월 28 03:08:26 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+ Show more
+IDC@hsgwportal02APP 3:54 PM
+Thu, 28 Nov 2019 15:54:48 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 03:54:38 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 4:04 PM
+Thu, 28 Nov 2019 16:04:50 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 04:04:47 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 5:05 PM
+Thu, 28 Nov 2019 17:05:06 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+11월 28 05:05:01 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+IDC@hsgwportal01APP 5:26 PM
+Thu, 28 Nov 2019 17:26:32 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+11월 28 05:25:52 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 5:39 PM
+Thu, 28 Nov 2019 17:39:15 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 05:38:33 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+11월 28 05:38:54 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Thu, 28 Nov 2019 17:42:16 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 05:41:37 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+11월 28 05:41:38 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal02APP 6:05 PM
+Thu, 28 Nov 2019 18:05:22 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+11월 28 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+11월 28 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch

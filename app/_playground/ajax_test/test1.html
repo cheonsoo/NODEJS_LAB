@@ -7,19 +7,34 @@
   <style></style>
   <script>
       function getData() {
+        const data = {
+          "aggs": {
+            "aggs_name": {
+              "terms": {
+                "field": "errType"
+              }
+            }
+          }
+        };
         const options = {
           url: "http://ec2-18-217-222-56.us-east-2.compute.amazonaws.com:9201/monitoring/slack/_search",
-          type: "POST",
+          // url: "http://ec2-18-217-222-56.us-east-2.compute.amazonaws.com",
+          method: "POST",
+          headers: {
+            // "Content-type" : "application/json"
+          },
           // dataType: "jsonp",
           // jsonpCallback: function(data) {
           //   debugger;
           // },
-          beforeSend : function(xhr){
-              // xhr.setRequestHeader("Content-type", "application/json");
+          beforeSend : function(xhr) {
+              xhr.setRequestHeader("Content-type", "application/json");
               // xhr.setRequestHeader("Accept", "*");
               // xhr.setRequestHeader("Host", "ec2-18-217-222-56.us-east-2.compute.amazonaws.com:9201");
               // xhr.setRequestHeader("Origin", "http://localhost");
               xhr.setRequestHeader("Access-Control-Allow-Origin", "*");
+              xhr.setRequestHeader("Access-Control-Allow-Methods", "POST, GET, OPTIONS");
+              xhr.setRequestHeader("Access-Control-Allow-Headers", "origin, x-requested-with, content-type");
               // xhr.setRequestHeader("User-Agent", "PostmanRuntime/7.20.1");
               // xhr.setRequestHeader("Cache-Control", "no-cache");
               // xhr.setRequestHeader("Postman-Token", "b6c7ec3d-46bf-4d38-a4e2-3f62730bbf2f");
@@ -28,24 +43,20 @@
               // xhr.setRequestHeader("Connection", "keep-alive");
               // xhr.setRequestHeader("","");
           },
-          data: {
-            "aggs": {
-              "aggs_name": {
-                "terms": {
-                  "field": "errType"
-                }
-              }
-            }
-          },
+          data: JSON.stringify(data),
+          dataType: "json",
           success: function(response, status, data) {
+            // debugger;
             console.log('success');
           },
           error: function(response, status, error) {
+            // debugger;
             console.log('error');
           }
         };
 
         $.ajax(options);
+        // $.post("http://ec2-18-217-222-56.us-east-2.compute.amazonaws.com:9201/monitoring/slack/_search", JSON.stringify(data));
       }
     </script>
 </head>

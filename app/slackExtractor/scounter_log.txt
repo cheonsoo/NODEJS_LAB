@@ -1,0 +1,428 @@
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/deleteSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/2nsd19f3l7ri116s2ldmjud2ro
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/a1ri27o21516e8p0kks769qkj4
+scouterAPP 1:45 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60072 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/mm885h6ie5pot5v0um20sjqf84
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] 78102108(/approval/ias/getCount.do) elapsed time(10245 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/d6b6sbbhi4306ler0u23lqopl4
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /devpiaXfe/fileupload/MultiFileUpload.dx5 - org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: [DEXTNJ.DEXTUploadNJMultipartResolver.resolveMultipart] Could not parse multipart request.; nested exception is devpia.dextuploadnj.DEXTUploadNJAuthenticateFailedException: PRODUCT = DEXTUploadNJ
+VERSION = 2.2.0
+TARGET HOST = HSGWPORTAL02[127.0.0.1]
+AUTHENTICATION TYPE = Server
+AUTHENTICATION RESULT = ServerFail
+LICENSE CONFIGURATION = [LIC] /applications/sorc001/devpia-license/dextuploadnj.config
+[DEXTNJ.AuthenticationComponent#Constructor] Authentication has failed. Please contact DEVPIA Inc.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/move.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/dlbel84mbuj57m70thqhqn13pg
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/move.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/3jj9lnqnsip5bpep1an1r38n8k
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/deleteSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/3jj9lnqnsip5bpep1an1r38n8k
+scouterAPP 2:07 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60061 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal02/P12
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal02/P12] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60086 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/g32mtja3gknpjt4jup34ijdo0g
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/rirebb7j9ve77e2csjgdtmp50s
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60095 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/scr9p8lda2le78imhcahdvvh9g
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60091 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /support/fileupload/downloadFile.do - java.lang.IllegalStateException: getOutputStream() has already been called for this response
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal02/P12
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal02/P12] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(10507 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal02/P12
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal02/P12] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(12230 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(10514 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(11147 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] 78102108(/approval/ias/getCount.do) elapsed time(10297 ms) exceed a threshold.
+scouterAPP 2:37 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60105 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] 736744471(/approval/ehr/countEhr.do) elapsed time(10191 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] 736744471(/approval/ehr/countEhr.do) elapsed time(10148 ms) exceed a threshold.
+scouterAPP 2:45 PM
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/deleteSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/17ca9ki3s5lov5iqg84kc6c8t6
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60053 ms) exceed a threshold.
+scouterAPP 2:57 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60087 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /approval/work/apprlist/formNameList.do - java.lang.IllegalStateException: getOutputStream() has already been called for this response
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(13172 ms) exceed a threshold.
+scouterAPP 3:06 PM
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60092 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /support/fileupload/downloadFile.do - java.lang.IllegalStateException: getOutputStream() has already been called for this response
+scouterAPP 3:17 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60093 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /rest/planner/insertPlan - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+scouterAPP 3:25 PM
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/iph6kglr6lsepm7qonpdtlev0s
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/iph6kglr6lsepm7qonpdtlev0s
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/vn30om2kdcsvv35roc2opeega0
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60033 ms) exceed a threshold.
+scouterAPP 3:37 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60136 ms) exceed a threshold.
+scouterAPP 3:47 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60090 ms) exceed a threshold.
+scouterAPP 3:57 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60109 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60104 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/n2rn41toitb5amo1kq6nrcv0i4
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60092 ms) exceed a threshold.
+scouterAPP 4:15 PM
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60078 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+scouterAPP 4:27 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60078 ms) exceed a threshold.
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1885245353(/approval/work/apprLine/updateApproval.do) elapsed time(10722 ms) exceed a threshold.
+scouterAPP 4:37 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60089 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+scouterAPP 4:44 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal02/P12
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal02/P12] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(10497 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60044 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60122 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal01/P11
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /support/fileupload/downloadFile.do - java.lang.IllegalStateException: getOutputStream() has already been called for this response
+scouterAPP 4:57 PM
+[TYPE] : TOMCAT
+[NAME] : /hsgwportal01/P11
+[LEVEL] : WARN
+[TITLE] : Elapsed time exceed a threshold.
+[MESSAGE] : [/hsgwportal01/P11] -1638757332(/approval/work/apprMain/getCountContract.do) elapsed time(60069 ms) exceed a threshold.
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/create.do - cannot retry due to server authentication, in streaming mode
+[TYPE] : SCOUTER
+[NAME] : /hsgwportal02/P12
+[LEVEL] : ERROR
+[TITLE] : xlog Error
+[MESSAGE] : /lightpack/planner/calendar/updateSchedule.do - Server returned HTTP response code: 401 for URL: https://www.googleapis.com/calendar/v3/calendars/primary/events/0v4qafm9tlodklm2t7qo9ghg0k

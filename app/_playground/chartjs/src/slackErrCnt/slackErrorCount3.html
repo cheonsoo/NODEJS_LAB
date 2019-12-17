@@ -1,0 +1,1002 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Line Chart</title>
+	<script src="../../js/Chart.min.js"></script>
+	<script src="../../js/utils.js"></script>
+	<style>
+	canvas{
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+	}
+	</style>
+</head>
+
+<body>
+	<div style="width:75%;">
+		<canvas id="canvas"></canvas>
+	</div>
+	<br>
+	<script>
+
+		var data = [
+    {
+        "_id" : "2019-10-31",
+        "cnt" : 8.0,
+        "errors" : [
+            "CalendarController.deleteSchedule",
+            "NewGoogleDataServiceImpl.googleCreate",
+            "CalendarController.create",
+            "NewGoogleDataServiceImpl.googleCreate",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.googleCreate",
+            "CalendarController.create"
+        ]
+    },
+    {
+        "_id" : "2019-11-08",
+        "cnt" : 3.0,
+        "errors" : [
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "NewGoogleDataServiceImpl.googleCreate",
+            "SendMessengerFileServiceImpl.sendSyncFile"
+        ]
+    },
+    {
+        "_id" : "2019-11-09",
+        "cnt" : 1.0,
+        "errors" : [
+            "SendMessengerFileServiceImpl.sendSyncFile"
+        ]
+    },
+    {
+        "_id" : "2019-11-10",
+        "cnt" : 7.0,
+        "errors" : [
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "SendMessengerFileServiceImpl.sendSyncFile"
+        ]
+    },
+    {
+        "_id" : "2019-11-11",
+        "cnt" : 8.0,
+        "errors" : [
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "SendMessengerFileServiceImpl.sendSyncFile"
+        ]
+    },
+    {
+        "_id" : "2019-11-12",
+        "cnt" : 17.0,
+        "errors" : [
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprMainController.getCountContract",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprMainController.getCountContract",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.googleDelete"
+        ]
+    },
+    {
+        "_id" : "2019-11-13",
+        "cnt" : 12.0,
+        "errors" : [
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create"
+        ]
+    },
+    {
+        "_id" : "2019-11-14",
+        "cnt" : 109.0,
+        "errors" : [
+            "CalendarController.create",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "ApprMainController.getCountContract",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.updateNew",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CalendarController.updateNew",
+            "CalendarController.updateNew",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CalendarController.create",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.enable",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "BoardItemController.autoMatchPic",
+            "CalendarController.create",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CalendarController.updateNew",
+            "CalendarController.updateNew",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.enable"
+        ]
+    },
+    {
+        "_id" : "2019-11-15",
+        "cnt" : 108.0,
+        "errors" : [
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CalendarController.updateNew",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CallForwardController.disable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.disable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.disable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CallForwardController.enable",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "CalendarController.create",
+            "CalendarController.updateNew",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "CalendarController.create",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "CalendarController.create",
+            "CallForwardController.enable",
+            "CallForwardServiceImpl.turnOff",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable"
+        ]
+    },
+    {
+        "_id" : "2019-11-16",
+        "cnt" : 1.0,
+        "errors" : [
+            "Slf4jSpyLogDelegator.exceptionOccured"
+        ]
+    },
+    {
+        "_id" : "2019-11-18",
+        "cnt" : 21.0,
+        "errors" : [
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.disable",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardController.enable",
+            "CallForwardController.enable",
+            "CallForwardController.enable",
+            "CallForwardController.enable",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "CallForwardServiceImpl.turnOff",
+            "CallForwardController.enable"
+        ]
+    },
+    {
+        "_id" : "2019-11-19",
+        "cnt" : 42.0,
+        "errors" : [
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "CallForwardController.disable",
+            "CallForwardController.enable",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CallForwardServiceImpl.turnOff",
+            "CallForwardServiceImpl.turnOff",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn"
+        ]
+    },
+    {
+        "_id" : "2019-11-20",
+        "cnt" : 85.0,
+        "errors" : [
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "ApprMainController.getCountContract",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "CallForwardServiceImpl.turnOn",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "CallForwardServiceImpl.turnOn",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "CallForwardController.enable",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "CallForwardController.disable",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "CallForwardServiceImpl.turnOn",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "Slf4jSpyLogDelegator.exceptionOccured"
+        ]
+    },
+    {
+        "_id" : "2019-11-21",
+        "cnt" : 33.0,
+        "errors" : [
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "CallForwardServiceImpl.turnOff",
+            "CallForwardServiceImpl.turnOff",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.run",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost"
+        ]
+    },
+    {
+        "_id" : "2019-11-22",
+        "cnt" : 31.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.run",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost"
+        ]
+    },
+    {
+        "_id" : "2019-11-25",
+        "cnt" : 53.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "Slf4jSpyLogDelegator.exceptionOccured",
+            "RunnablePost.clientResponsePost",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprMainController.getCountContract",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "MeetingRoomRestful.isRoomReserve",
+            "MeetingRoomRestful.isRoomReserve",
+            "MeetingRoomRestful.isRoomReserve",
+            "MeetingRoomRestful.isRoomReserve",
+            "MeetingRoomRestful.isRoomReserve",
+            "MeetingRoomRestful.isRoomReserve",
+            "ApprAdminFormServiceImpl.getApprReferenceList"
+        ]
+    },
+    {
+        "_id" : "2019-11-26",
+        "cnt" : 38.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprMainController.getCountContract",
+            "RequestContextAwareTag.doStartTag",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.googleDelete"
+        ]
+    },
+    {
+        "_id" : "2019-11-27",
+        "cnt" : 32.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost"
+        ]
+    },
+    {
+        "_id" : "2019-11-28",
+        "cnt" : 40.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprWorkDocController.viewApprDoc",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprWorkDocController.viewApprDoc",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost"
+        ]
+    },
+    {
+        "_id" : "2019-11-29",
+        "cnt" : 18.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprWorkDocController.viewApprDoc",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "ApprWorkDocController.viewApprDoc"
+        ]
+    },
+    {
+        "_id" : "2019-12-02",
+        "cnt" : 53.0,
+        "errors" : [
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportCreateSchedule",
+            "RunnablePost.clientResponsePost",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "ApprMainController.getCountContract",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "ApprWorkDocController.viewApprDoc",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "ApprAdminFormServiceImpl.getApprReferenceList",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.exportUpdateSchedule",
+            "NewGoogleDataServiceImpl.googleDelete",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost",
+            "RunnablePost.clientResponsePost"
+        ]
+    }
+];
+
+		var config = {
+			type: 'line',
+			data: {
+				labels: data.map(item => item._id),
+				datasets: [{
+					label: 'Error Count',
+					backgroundColor: window.chartColors.red,
+					borderColor: window.chartColors.red,
+					data: data.map(item => item.cnt),
+					fill: false,
+				}]
+			},
+			options: {
+				responsive: true,
+				title: {
+					display: true,
+					text: 'Chart.js Line Chart'
+				},
+				tooltips: {
+					// mode: 'index',
+                    // intersect: false,
+                    enabled: true,
+                    data: data.errors
+                    /*
+                    custom: function(tooltipModel) {
+                        console.log(tooltipModel);
+                        // Tooltip Element
+                        var tooltipEl = document.getElementById('chartjs-tooltip');
+
+                        // Create element on first render
+                        if (!tooltipEl) {
+                            tooltipEl = document.createElement('div');
+                            tooltipEl.id = 'chartjs-tooltip';
+                            tooltipEl.innerHTML = '<table></table>';
+                            document.body.appendChild(tooltipEl);
+                        }
+
+                        // Hide if no tooltip
+                        if (tooltipModel.opacity === 0) {
+                            tooltipEl.style.opacity = 0;
+                            return;
+                        }
+
+                        // Set caret Position
+                        tooltipEl.classList.remove('above', 'below', 'no-transform');
+                        if (tooltipModel.yAlign) {
+                            tooltipEl.classList.add(tooltipModel.yAlign);
+                        } else {
+                            tooltipEl.classList.add('no-transform');
+                        }
+
+                        function getBody(bodyItem) {
+                            return bodyItem.lines;
+                        }
+
+                        // Set Text
+                        if (tooltipModel.body) {
+                            var titleLines = tooltipModel.title || [];
+                            var bodyLines = tooltipModel.body.map(getBody);
+
+                            var innerHtml = '<thead>';
+
+                            titleLines.forEach(function(title) {
+                                innerHtml += '<tr><th>' + title + '</th></tr>';
+                            });
+                            innerHtml += '</thead><tbody>';
+
+                            bodyLines.forEach(function(body, i) {
+                                var colors = tooltipModel.labelColors[i];
+                                var style = 'background:' + colors.backgroundColor;
+                                style += '; border-color:' + colors.borderColor;
+                                style += '; border-width: 2px';
+                                var span = '<span style="' + style + '"></span>';
+                                innerHtml += '<tr><td>' + span + body + '</td></tr>';
+                            });
+                            innerHtml += '</tbody>';
+
+                            var tableRoot = tooltipEl.querySelector('table');
+                            // tableRoot.innerHTML = innerHtml;
+                            tableRoot.innerHTML = `<div>${JSON.stringify(tooltipModel)}</div>`;
+                        }
+
+                        // `this` will be the overall tooltip
+                        var position = this._chart.canvas.getBoundingClientRect();
+
+                        // Display, position, and set styles for font
+                        tooltipEl.style.opacity = 1;
+                        tooltipEl.style.position = 'absolute';
+                        tooltipEl.style.left = position.left + window.pageXOffset + tooltipModel.caretX + 'px';
+                        tooltipEl.style.top = position.top + window.pageYOffset + tooltipModel.caretY + 'px';
+                        tooltipEl.style.fontFamily = tooltipModel._bodyFontFamily;
+                        tooltipEl.style.fontSize = tooltipModel.bodyFontSize + 'px';
+                        tooltipEl.style.fontStyle = tooltipModel._bodyFontStyle;
+                        tooltipEl.style.padding = tooltipModel.yPadding + 'px ' + tooltipModel.xPadding + 'px';
+                        tooltipEl.style.pointerEvents = 'none';
+                    }
+                    */
+				},
+				hover: {
+					mode: 'nearest',
+					intersect: true
+				},
+				scales: {
+					x: {
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Month'
+						}
+					},
+					y: {
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Value'
+						}
+					}
+				}
+			}
+		};
+
+		window.onload = function() {
+			var ctx = document.getElementById('canvas').getContext('2d');
+			window.myLine = new Chart(ctx, config);
+		};
+
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,133 @@
+IDC@hsgwportal02APP 8:01 AM
+Mon, 02 Dec 2019 08:01:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 08:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 10:01 AM
+Mon, 02 Dec 2019 10:01:50 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-enable-batch
+12월 02 10:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal01APP 10:19 AM
+Mon, 02 Dec 2019 10:19:53 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 10:18:58 오전 ERROR - NewGoogleDataServiceImpl.exportCreateSchedule(405) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+IDC@hsgwportal01APP 11:01 AM
+Mon, 02 Dec 2019 11:01:04 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 11:01:00 오전 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-enable-batch
+IDC@hsgwportal02APP 11:32 AM
+Mon, 02 Dec 2019 11:32:14 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 11:31:18 오전 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           java.lang.NullPointerException
+IDC@hsgwportal01APP 12:17 PM
+Mon, 02 Dec 2019 12:17:24 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 12:17:16 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:17 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:17 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:21 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal02APP 12:17 PM
+Mon, 02 Dec 2019 12:17:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 12:17:17 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:17 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:20 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:20 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+Mon, 02 Dec 2019 12:18:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 12:17:26 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:27 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:29 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:29 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal01APP 12:18 PM
+Mon, 02 Dec 2019 12:18:25 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 12:17:28 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:30 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:30 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:17:31 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+Mon, 02 Dec 2019 12:19:25 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 12:18:29 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:18:31 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:18:32 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:18:33 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal02APP 12:19 PM
+Mon, 02 Dec 2019 12:19:26 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 12:18:28 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:18:29 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:18:30 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:18:31 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal01APP 12:20 PM
+Mon, 02 Dec 2019 12:20:25 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 12:19:25 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:19:26 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:19:26 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:19:27 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+ Show more
+IDC@hsgwportal02APP 12:20 PM
+Mon, 02 Dec 2019 12:20:27 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 12:19:27 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+12월 02 12:19:27 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:19:28 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:504 Gateway Time-out
+12월 02 12:19:29 오후 ERROR - ApprMainController.getCountContract(287) |                           Contract Call api:502 Bad Gateway
+ Show more
+IDC@hsgwportal01APP 1:24 PM
+Mon, 02 Dec 2019 13:24:42 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 01:23:44 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 3:42 PM
+Mon, 02 Dec 2019 15:42:19 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 03:41:42 오후 ERROR - ApprWorkDocController.viewApprDoc(1863) |                           com.lgcns.ikep4.framework.common.exception.IKEP4AuthorizedException
+IDC@hsgwportal01APP 3:59 PM
+Mon, 02 Dec 2019 15:59:23 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 03:59:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 21266
+12월 02 03:59:10 오후 ERROR - ApprAdminFormServiceImpl.getApprReferenceList(476) |                           appr system reference [user groupId] error : 23060
+IDC@hsgwportal01APP 4:17 PM
+Mon, 02 Dec 2019 16:17:28 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:17:15 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+12월 02 04:17:27 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 02 Dec 2019 16:21:29 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:20:53 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:34 PM
+Mon, 02 Dec 2019 16:34:33 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:33:43 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal01APP 4:48 PM
+Mon, 02 Dec 2019 16:48:36 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:48:11 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 02 Dec 2019 16:49:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:48:47 오후 ERROR - NewGoogleDataServiceImpl.exportUpdateSchedule(497) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+Mon, 02 Dec 2019 16:50:37 +0900 | hsgwportal01 : Content match
+check_groupware_log : content match:
+12월 02 04:49:50 오후 ERROR - NewGoogleDataServiceImpl.googleDelete(320) |                           com.google.api.client.googleapis.json.GoogleJsonResponseException: 404 Not Found
+IDC@hsgwportal02APP 5:05 PM
+Mon, 02 Dec 2019 17:05:40 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+12월 02 05:05:03 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+new messages
+IDC@hsgwportal02APP 6:05 PM
+Mon, 02 Dec 2019 18:05:56 +0900 | hsgwportal02 : Content match
+check_groupware_log : content match:
+12월 02 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.33:10010/api/set-forwarding-disable-batch
+12월 02 06:05:00 오후 ERROR - RunnablePost.clientResponsePost(74) |                           Call Forward Api:http://10.52.216.32:10010/api/set-forwarding-disable-batch
+IDC@hsgwmap02APP 10:01 PM
+Mon, 02 Dec 2019 22:01:47 +0900 | hsgwmap02 : Content match
+check_ehrerror_log : content match:
+22:00:48.164 [ajp-bio-7009-exec-17] ERROR c.l.i.m.common.client.EhrClient - [EhrError] GET ErrorCause : 500 Internal Server Error

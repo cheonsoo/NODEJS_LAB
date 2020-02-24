@@ -1,0 +1,1 @@
+SUM(P.G_QTY) AS G_QTY,         -- ������� S

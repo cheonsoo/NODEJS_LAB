@@ -18,6 +18,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "iconv-lite": "^0.5.1",
+    "moment": "^2.24.0",
     "mongoose": "^5.8.1",
     "phantom": "^4.0.12",
     "puppeteer": "^1.20.0",

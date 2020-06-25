@@ -1,6 +1,6 @@
 const request = require('request-promise');
 
-const util = require('../../util/util');
+const util = require('../../utils/util');
 
 async function getData() {
   const url = 'http://google.co.kr';

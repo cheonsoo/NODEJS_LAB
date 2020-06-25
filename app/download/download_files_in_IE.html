@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <a id='a1' href="https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg"
+        download>일반</a>
+        <a id='a1' href="https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg"
+        download='asdfa.webp'>파일명지정</a>
+    <script>
+
+        function MS_bindDownload(el) {
+            if (el === undefined) {
+                throw Error('I need element parameter.');
+            }
+            if (el.href === '') {
+                throw Error('The element has no href value.');
+            }
+            var filename = el.getAttribute('download');
+            if (filename === null){
+                throw Error('I need download property.');
+            }
+            if (filename === '') {
+                var tmp = el.href.split('/');
+                filename = tmp[tmp.length - 1];
+            }
+            el.addEventListener('click', function (evt) {
+                evt.preventDefault();
+                var xhr = new XMLHttpRequest();
+                xhr.onloadstart = function () {
+                    xhr.responseType = 'blob';
+                };
+                xhr.onload = function () {
+                    navigator.msSaveOrOpenBlob(xhr.response, filename);
+                };
+                xhr.open("GET", el.href, true);
+                xhr.send();
+            })
+        }
+
+
+        let atags = document.querySelectorAll('a');
+        for (let i = 0; i < atags.length; i++) {
+            const element = atags[i];
+            MS_bindDownload(element);
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 module.exports = {
-  API_HOST: 'http://localhost:4000',
+  API_HOST: 'http://localhost:4001',
   SERVER_PORT: 4000,
   MONGO: {
     URL: '127.0.0.1',

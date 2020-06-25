@@ -41,7 +41,7 @@ var date = "20180827";
 // };
 
 let zipFiles = async () => {
-	var output = fs.createWriteStream( `/Users/cpark/Workspace/mansoo/MANSOO_LAB/nodejs/fs/${date}_${new Date().getTime()}.zip` );
+	var output = fs.createWriteStream( `/Users/mansoo/Workspace/mansoo/NODEJS_LAB/app/fs/${date}_${new Date().getTime()}.zip` );
 	var archive = archiver( "zip" );
 
 	output.on( "finish", () => {
@@ -66,7 +66,7 @@ let zipFiles = async () => {
 		"vip_product_detail__79__295625366824632326__1601462__579163265__20180827_153243.html"
 	];
 
-	var file = `/Users/cpark/Workspace/mansoo/MANSOO_LAB/nodejs/fs/${date}`;
+	var file = `/Users/mansoo/Workspace/mansoo/NODEJS_LAB/app/fs/${date}`;
 
 	archive.directory( file, false );
 

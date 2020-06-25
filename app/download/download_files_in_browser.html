@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript">
+        function download() {
+            // const url = "http://image.gsshop.com/image/60/00/60000212_L1.jpg";
+            // const url = "http://devimage.gsshop.com/image/60/00/60000212_L1.jpg";
+            const url = "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/308.png";
+            // const url = "https://cdn.zeplin.io/5e786c9c7a4ea1724fced1f3/assets/AA777FBD-8DAC-4899-8811-073BA1298A39.png";
+            const fileName = url.split("/").pop();
+            const options = {
+                method: "GET",
+                mode: "no-cors"
+            };
+
+            fetch(url, options).
+            then(res => res.blob()).
+            then(data => {
+                console.log(data);
+                const url = window.URL.createObjectURL(new Blob([data]));
+                const link = document.createElement("a");
+                link.href = url;
+                link.setAttribute("download", fileName);
+                document.body.appendChild(link);
+                link.click();
+            });
+        }
+    </script>
+</head>
+
+<body>
+    <button onClick="download()">download</button>
+</body>
+
+</html>

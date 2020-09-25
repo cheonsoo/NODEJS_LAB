@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fs": "0.0.1-security",
-    "mongoose": "^4.11.9",
+    "mongoose": "^5.10.7",
     "tunnel": "^0.0.5",
     "tunnel-ssh": "^4.1.3"
   },

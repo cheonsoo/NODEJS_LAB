@@ -1,33 +1,35 @@
-var start = new Date().getTime();
+const start = new Date().getTime();
 
-var arr = [ 8,3,4,1,5,6,2,7 ];
+const sort = data => {
+  let min = 0;
+  let idx = 0;
+  let sorted = [];
+  let min_idx = 0;
 
-var min = 0;
-var idx = 0;
-var sorted = [];
-var min_idx = 0;
-
-for ( var k=0; k<arr.length; k++ ) {
-
-    min = arr[ k ];
+  for (var k = 0; k < data.length; k++) {
+    min = data[k];
     min_idx = i;
-    for ( var i=k+1; i<arr.length; i++ ) {
-    
-        if ( arr[ i ] < min ) {
-            min = arr[ i ];
-            min_idx = i;
-        }
+    for (var i = k + 1; i < data.length; i++) {
+      if (data[i] < min) {
+        min = data[i];
+        min_idx = i;
+      }
     }
 
-    var tmp = arr.splice( min_idx, 1 );
-    var left = arr.splice( 0, idx );
-    var right = arr;
+    var tmp = data.splice(min_idx, 1);
+    var left = data.splice(0, idx);
+    var right = data;
     idx++;
-    
-    arr = [];
-    arr = arr.concat( left, tmp, right );
+
+    data = [];
+    data = data.concat(left, tmp, right);
+  }
+  return data;
+};
+
+const not_sorted = [];
+for (let i = 0; i < 100; i++) {
+  not_sorted.push(parseInt(Math.random() * 100));
 }
-
-
-console.log( arr.join( "," ) );
-console.log( `exe time : ${new Date().getTime() - start}` );
+console.log(sort(not_sorted).join(','));
+console.log(`exe time : ${new Date().getTime() - start}`);

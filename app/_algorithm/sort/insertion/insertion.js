@@ -1,23 +1,24 @@
-var start = new Date().getTime();
+const start = new Date().getTime();
 
-var arr = [ 8,3,4,1,5,6,2,7 ];
+const sort = data => {
+  for (let i = 1; i < data.length; i++) {
+    let tmp = data[i];
 
-var tmp;
-for ( var i=1; i<arr.length; i++ ) {
-
-    var tmp = arr[ i ];
-
-    for ( var k=i-1; k>=0; k-- ) {
-
-        if ( arr[ k ] > tmp ) {
-            // swap
-            arr[ k+1 ] = arr[ k ];
-            arr[ k ] = tmp;
-            
-        }
-
+    for (let k = i - 1; k >= 0; k--) {
+      if (data[k] > tmp) {
+        // swap
+        data[k + 1] = data[k];
+        data[k] = tmp;
+      }
     }
+  }
+  return data;
+};
+
+const arr = [];
+for (let i = 0; i < 100; i++) {
+  arr.push(parseInt(Math.random() * 100));
 }
 
-console.log( arr.join( "," ) );
-console.log( `exe time : ${new Date().getTime() - start}` );
+console.log(sort(arr).join(','));
+console.log(`exe time : ${new Date().getTime() - start}`);

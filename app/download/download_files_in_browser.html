@@ -10,13 +10,17 @@
         function download() {
             // const url = "http://image.gsshop.com/image/60/00/60000212_L1.jpg";
             // const url = "http://devimage.gsshop.com/image/60/00/60000212_L1.jpg";
-            const url = "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/308.png";
+            // const url = "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/308.png";
+            const url = "http://image.gsshop.com/image/59/62/59620221_L1.jpg";
             // const url = "https://cdn.zeplin.io/5e786c9c7a4ea1724fced1f3/assets/AA777FBD-8DAC-4899-8811-073BA1298A39.png";
             const fileName = url.split("/").pop();
             const options = {
-                method: "GET",
-                mode: "no-cors"
+                method: "GET"
             };
+            // const options = {
+            //     method: "GET",
+            //     mode: "no-cors"
+            // };
 
             fetch(url, options).
             then(res => res.blob()).

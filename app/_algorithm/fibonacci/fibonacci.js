@@ -5,25 +5,25 @@
 let start = new Date().getTime();
 
 //* // Fibonacci function with recursion
-function fibonacci( i ) {
+function fibonacci(i) {
     let memo = {};
 
-    function fibo( i ) {
+    function fibo(i) {
 
-        if ( i <= 1 )
+        if (i <= 1)
             return i;
 
-        if ( memo[ i ])
-            return memo[ i ];
-        
-        let val1 = fibo( i - 1 );
-        let val2 = fibo( i - 2 );
+        if (memo[i])
+            return memo[i];
+
+        let val1 = fibo(i - 1);
+        let val2 = fibo(i - 2);
         let result = val1 + val2;
-        memo[ i ] = result;
+        memo[i] = result;
         return result;
     }
 
-    return fibo( i );
+    return fibo(i);
 }
 /*/ // Common Fibonacci Function
 function fibonacci( i ) {
@@ -34,6 +34,6 @@ function fibonacci( i ) {
 }
 //*/
 
-console.log( fibonacci( 100 ) );
+console.log(fibonacci(100));
 
-console.log( `exe time : ${new Date().getTime() - start}` );
+console.log(`exe time : ${new Date().getTime() - start}`);

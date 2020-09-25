@@ -8,7 +8,7 @@ console.log(str);
 
 console.log(`encoding: ${JSON.stringify(detect(str))}`);
 
-console.log(iconv.decode(str.toString(), 'euc-kr'));
+// console.log(iconv.decode(str.toString(), 'euc-kr'));
 // console.log(iconv.encode(str, 'euc-kr'));
 // console.log(iconv.decode(str, 'utf8'));
 // console.log(iconv.encode(str, 'utf8'));

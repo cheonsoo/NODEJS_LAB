@@ -1,13 +1,13 @@
 function getDivisors(num) {
   const divisors = [];
-  for (let i = 1; i <= num; i++) {
+  for (let i = 1; i <= num / 2; i++) {
     if (num % i === 0) {
-      divisors.push(num);
       divisors.push(i);
     }
   }
-  return Array.from(new Set(divisors)).sort((a, b) => a - b);
+  divisors.push(num);
+  return divisors;
 }
 
-const num = 12;
+const num = 24;
 console.log(getDivisors(num));

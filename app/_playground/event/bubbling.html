@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <style>
+      div {
+        border: 1px solid red;
+        width: 300px;
+      }
+    </style>
+  </head>
+</html>
+<script type="text/javascript">
+  function fn1(evt) {
+    evt.stopPropagation();
+    // evt.stopImmediatePropagation();
+    console.log('fn1');
+  }
+
+  function fn2(evt) {
+    // evt.stopPropagation()
+    // evt.stopImmediatePropagation();
+    console.log('fn2');
+  }
+
+  function fn3(evt) {
+    console.log('fn3');
+  }
+</script>
+
+<div style="border: 1px solid red; padding: 10px;" onclick="fn3( event )">
+  DIV 3
+  <div style="border: 1px solid gray; padding: 10px;" onclick="fn2( event )">
+    DIV 2
+    <div style="border: 1px solid green; padding: 10px;" onclick="fn1( event )">DIV 1</div>
+  </div>
+</form>

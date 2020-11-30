@@ -1,0 +1,144 @@
+<html>
+  <head>
+    <script>
+
+      const call1 = () => {
+        // const url = "http://10.53.28.132:9080/ui/cmm/getMyScrenCmposList";
+        const url = "http://10.52.220.159:9001/ui/cmm/getMyScrenCmposList";
+        const payload = {
+          "userId" : "TST00",
+          "screnId" : "PRD_Search_Detail_V2",
+          "gridNm" : "ProductList"
+        };
+        return fetch(url, {
+          method: 'POST', // *GET, POST, PUT, DELETE, etc.
+          // mode: 'no-cors', // no-cors, cors, *same-origin
+          // cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+          // credentials: 'same-origin', // include, *same-origin, omit
+          headers: {
+            'Content-Type': 'application/json',
+            'x-session-info': 'nXqbC4Jl3gJo1LSJ9dkbEJikczV1QWUgld/V2S8sZVBXb3rOmOw4OsB3dh4aZmz5PHpXdmCfVJF51kyfoyIP2yKBY53F3CqpjwvWBIo7vyQd3gGgiHw9TU+Dn/Jf0N0EHi4dvpqJTnVA9uXdcHlHpAmvYgGNwOVKSafCfO41BfNNHMG6cb3Ot6MgL8+3wmiUEbGZhPg8huaxZxFmqujb5PW08G64FJCsEeUUSbmjGHu9QD2eqebqwm6Vj6pyRzl92kd3aFN+4GVXrMXu5J+Wj8tCf+Ou0+SR0jXAnHJ7on1NhPw/eq9n2EW0rFO7JfsJaAkHJIGwKRsStNGM5PjeiBG62/IL74DPNJImPDFS+o6FaYIN85QK0HD7VMPQz3Q1S7Q/9XdhoxCNFxVPKR5JFGNpkxeRZs7Af4k7vNV1XA/EfhHjzXambWIUNRpnmSryljxIRRJp30JjiwqfZ7ZLCBMoNujHRcT27VUQ1s4wsguAVH6Wch/je5xJ01zkx0OXset27t3yl0wblzGC/zY32C7zsbOVU9hdCMrOacokM44='
+          },
+          // redirect: 'follow', // manual, *follow, error
+          // referrer: 'no-referrer', // no-referrer, *client
+          // body: payload, // body data type must match "Content-Type" header
+          body: JSON.stringify(payload), // body data type must match "Content-Type" header
+        })
+        .then(response => {
+          console.log(response);
+          return response.json();
+        });
+      };
+
+      const call2 = () => {
+        const url = "http://10.52.220.205:8080/ui/cpn/getCpnListP";
+        const payload = [];
+        return fetch(url, {
+          method: 'POST', // *GET, POST, PUT, DELETE, etc.
+          // mode: 'no-cors', // no-cors, cors, *same-origin
+          // origin: "localhost:3000",
+          // cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+          // credentials: 'same-origin', // include, *same-origin, omit
+          headers: {
+            'Content-Type': 'application/json',
+            'x-session-info': 'nXqbC4Jl3gJo1LSJ9dkbEJikczV1QWUgld/V2S8sZVBXb3rOmOw4OsB3dh4aZmz5PHpXdmCfVJF51kyfoyIP2yKBY53F3CqpjwvWBIo7vyQd3gGgiHw9TU+Dn/Jf0N0EHi4dvpqJTnVA9uXdcHlHpAmvYgGNwOVKSafCfO41BfNNHMG6cb3Ot6MgL8+3wmiUEbGZhPg8huaxZxFmqujb5PW08G64FJCsEeUUSbmjGHu9QD2eqebqwm6Vj6pyRzl92kd3aFN+4GVXrMXu5J+Wj8tCf+Ou0+SR0jXAnHJ7on1NhPw/eq9n2EW0rFO7JfsJaAkHJIGwKRsStNGM5PjeiBG62/IL74DPNJImPDFS+o6FaYIN85QK0HD7VMPQz3Q1S7Q/9XdhoxCNFxVPKR5JFGNpkxeRZs7Af4k7vNV1XA/EfhHjzXambWIUNRpnmSryljxIRRJp30JjiwqfZ7ZLCBMoNujHRcT27VUQ1s4wsguAVH6Wch/je5xJ01zkx0OXset27t3yl0wblzGC/zY32C7zsbOVU9hdCMrOacokM44='
+          },
+          // redirect: 'follow', // manual, *follow, error
+          // referrer: 'no-referrer', // no-referrer, *client
+          body: JSON.stringify(payload), // body data type must match "Content-Type" header
+        })
+        .then(response => response.json());
+      };
+
+      const call3 = () => {
+        const url = "http://10.52.221.123:8080/ui/prd/popup/getPrdList";
+        const payload = {
+          "prdCd": "60049281",
+          "qryGbn": "PRDCD",
+          "qryGbnVal": "60049281"
+        };
+        return fetch(url, {
+          method: 'POST', // *GET, POST, PUT, DELETE, etc.
+          // mode: 'no-cors', // no-cors, cors, *same-origin
+          // origin: "localhost:3000",
+          // cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+          // credentials: 'same-origin', // include, *same-origin, omit
+          headers: {
+              'Content-Type': 'application/json'
+          },
+          // redirect: 'follow', // manual, *follow, error
+          // referrer: 'no-referrer', // no-referrer, *client
+          body: JSON.stringify(payload), // body data type must match "Content-Type" header
+        })
+        .then(response => response.json());
+      };
+
+      const call4 = () => {
+        const url = "http://10.52.221.123:8080/ui/prd/getPrdBase";
+        const payload = {
+          "prdBaseQryCond": {
+            "prdCd": 50883556
+          },
+          "prdCdQryCond": {}
+        };
+        return fetch(url, {
+          method: 'POST', // *GET, POST, PUT, DELETE, etc.
+          // mode: 'no-cors', // no-cors, cors, *same-origin
+          // origin: "localhost:3000",
+          // cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+          // credentials: 'same-origin', // include, *same-origin, omit
+          headers: {
+              'Content-Type': 'application/json'
+          },
+          // redirect: 'follow', // manual, *follow, error
+          // referrer: 'no-referrer', // no-referrer, *client
+          body: JSON.stringify(payload), // body data type must match "Content-Type" header
+        })
+        .then(response => response.json());
+      };
+
+      const call5 = () => {
+        const url = "http://10.52.220.159:9001/ui/cmm/getMyScrenCmposList";
+        return fetch(url, {
+          method: 'GET'
+        })
+        .then(response => {
+          console.log(response.json());
+          return response.json();
+        });
+      };
+
+      const call6 = () => {
+        const url = "http://10.52.220.159:9001/api/ods/getSupCoverCont";
+        // const url = "http://10.53.28.132:9080/api/ods/getSupCoverCont";
+        const payload = "1014508";
+        return fetch(url, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(payload),
+        })
+        .then(response => {
+          console.log(response);
+          return response.json();
+        });
+      };
+
+      const run = async () => {
+        // call3();
+        // call4();
+        // call1();
+        // call2();
+        // call5();
+        const res = await call1();
+        // const res2 = await call6();
+      };
+
+      run();
+    </script>
+  </head>
+  <body>
+    <h3>CORS TEST</h3>
+  </body>
+</html>

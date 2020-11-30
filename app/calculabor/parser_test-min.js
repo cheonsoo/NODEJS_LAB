@@ -1,0 +1,1 @@
+const DATA=require("./data2.json"),formular="var1_BLANK__BLANK_var2 + var3 - var4 / var5 +(4 % 2)",regex=new RegExp("(\\+|\\-|\\/|\\*|\\%|\\^|\\=|\\(|\\))");let result=formular.split(regex);result=result.map(r=>r.trim()),result=result.map(r=>DATA[r]?DATA[r].value:r);

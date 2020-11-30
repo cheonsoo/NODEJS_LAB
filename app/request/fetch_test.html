@@ -1,0 +1,129 @@
+<html>
+  <head>
+    <script>
+      const getPrdList = async () => {
+        let data = [];
+        const url = 'http://10.52.221.123:8080/ui/prd/popup/getPrdList';
+        const payload = {
+          prdCd: '60049281',
+          qryGbn: 'PRDCD',
+          qryGbnVal: '60049281'
+        };
+
+        try {
+          const res = await fetch(url, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(payload)
+          });
+          data = res.json();
+        } catch (e) {
+          console.log(e);
+        }
+
+        return data;
+      };
+
+      const getCmmCodeList = () => {
+        const url = 'http://10.52.221.123:8080/ui/cmm/getCmmCodeList?cmmGrpCd=PRD025';
+        return fetch(url, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'x-session-info':
+              'nXqbC4Jl3gJo1LSJ9dkbEJikczV1QWUgld/V2S8sZVBXb3rOmOw4OsB3dh4aZmz5PHpXdmCfVJF51kyfoyIP2yKBY53F3CqpjwvWBIo7vyQd3gGgiHw9TU+Dn/Jf0N0EHi4dvpqJTnVA9uXdcHlHpAmvYgGNwOVKSafCfO41BfNNHMG6cb3Ot6MgL8+3wmiUEbGZhPg8huaxZxFmqujb5PW08G64FJCsEeUUSbmjGHu9QD2eqebqwm6Vj6pyRzl92kd3aFN+4GVXrMXu5J+Wj8tCf+Ou0+SR0jXAnHJ7on1NhPw/eq9n2EW0rFO7JfsJaAkHJIGwKRsStNGM5PjeiBG62/IL74DPNJImPDFS+o6FaYIN85QK0HD7VMPQz3Q1S7Q/9XdhoxCNFxVPKR5JFGNpkxeRZs7Af4k7vNV1XA/EfhHjzXambWIUNRpnmSryljxIRRJp30JjiwqfZ7ZLCBMoNujHRcT27VUQ1s4wsguAVH6Wch/je5xJ01zkx0OXset27t3yl0wblzGC/zY32C7zsbOVU9hdCMrOacokM44='
+          }
+        }).then(response => {
+          return response.json();
+        });
+      };
+
+      const getEtcLrgShopList = async () => {
+        const url = 'http://10.52.221.123:8080/ui/prd/ecShop/getEtcLrgShopList?shopGbn=G&sectid=1378773';
+        let data = [];
+        try {
+          const res = await fetch(url, {
+            method: 'GET'
+          });
+          data = res.json();
+        } catch (e) {
+          console.log(e);
+        }
+        return data;
+      };
+
+      const callLhoste = async () => {
+        const url = 'http://10.52.220.205:8080/ui/cpn/getCpnListP';
+        let data = [];
+        try {
+          const payload = {
+            fromCpnNo: '200949107',
+            toCpnNo: '200949108',
+            fromRegDtm: '20200701',
+            toRegDtm: '20201012',
+            cpnNm: '',
+            myTeamViewChk: 'Y'
+          };
+          const options = {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'x-session-info':
+                'nXqbC4Jl3gJo1LSJ9dkbEJikczV1QWUgld/V2S8sZVBXb3rOmOw4OsB3dh4aZmz5PHpXdmCfVJF51kyfoyIP2yKBY53F3CqpjwvWBIo7vyQd3gGgiHw9TU+Dn/Jf0N0EHi4dvpqJTnVA9uXdcHlHpAmvYgGNwOVKSafCfO41BfNNHMG6cb3Ot6MgL8+3wmiUEbGZhPg8huaxZxFmqujb5PW08G64FJCsEeUUSbmjGHu9QD2eqebqwm6Vj6pyRzl92kd3aFN+4GVXrMXu5J+Wj8tCf+Ou0+SR0jXAnHJ7on1NhPw/eq9n2EW0rFO7JfsJaAkHJIGwKRsStNGM5PjeiBG62/IL74DPNJImPDFS+o6FaYIN85QK0HD7VMPQz3Q1S7Q/9XdhoxCNFxVPKR5JFGNpkxeRZs7Af4k7vNV1XA/EfhHjzXambWIUNRpnmSryljxIRRJp30JjiwqfZ7ZLCBMoNujHRcT27VUQ1s4wsguAVH6Wch/je5xJ01zkx0OXset27t3yl0wblzGC/zY32C7zsbOVU9hdCMrOacokM44='
+            },
+            body: JSON.stringify(payload)
+          };
+
+          const res = await fetch(url, options);
+          data = res.json();
+        } catch (e) {
+          console.log(e);
+        }
+        return data;
+      };
+
+      const callManaslu = async () => {
+        const url = 'http://10.52.220.159:9001/ui/cmm/getMyScrenCmposList';
+        let data = [];
+        try {
+          const payload = {
+            gridNm: 'ProductList',
+            screnId: 'PRD_Search_Detail_V2',
+            userId: 'TST00'
+          };
+          const options = {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'x-session-info':
+                'nXqbC4Jl3gJo1LSJ9dkbEJikczV1QWUgld/V2S8sZVBXb3rOmOw4OsB3dh4aZmz5PHpXdmCfVJF51kyfoyIP2yKBY53F3CqpjwvWBIo7vyQd3gGgiHw9TU+Dn/Jf0N0EHi4dvpqJTnVA9uXdcHlHpAmvYgGNwOVKSafCfO41BfNNHMG6cb3Ot6MgL8+3wmiUEbGZhPg8huaxZxFmqujb5PW08G64FJCsEeUUSbmjGHu9QD2eqebqwm6Vj6pyRzl92kd3aFN+4GVXrMXu5J+Wj8tCf+Ou0+SR0jXAnHJ7on1NhPw/eq9n2EW0rFO7JfsJaAkHJIGwKRsStNGM5PjeiBG62/IL74DPNJImPDFS+o6FaYIN85QK0HD7VMPQz3Q1S7Q/9XdhoxCNFxVPKR5JFGNpkxeRZs7Af4k7vNV1XA/EfhHjzXambWIUNRpnmSryljxIRRJp30JjiwqfZ7ZLCBMoNujHRcT27VUQ1s4wsguAVH6Wch/je5xJ01zkx0OXset27t3yl0wblzGC/zY32C7zsbOVU9hdCMrOacokM44='
+            },
+            body: JSON.stringify(payload)
+          };
+
+          const res = await fetch(url, options);
+          data = res.json();
+        } catch (e) {
+          console.log(e);
+        }
+        return data;
+      };
+
+      const run = async () => {
+        // const res = await getPrdList();
+        // const res = await getCmmCodeList();
+        // const res = await getEtcLrgShopList();
+        const res = await callLhoste();
+        // const res = await callManaslu();
+        console.log(res);
+      };
+
+      run();
+    </script>
+  </head>
+  <body>
+    <h3>CORS TEST</h3>
+  </body>
+</html>

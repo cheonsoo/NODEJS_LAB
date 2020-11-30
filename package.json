@@ -20,6 +20,7 @@
     "express-session": "^1.17.0",
     "getmac": "^5.11.0",
     "iconv-lite": "^0.5.1",
+    "mathjs": "^8.0.1",
     "moment": "^2.24.0",
     "mongoose": "^5.8.1",
     "node-arp": "^1.0.6",

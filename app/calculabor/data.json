@@ -1,0 +1,25 @@
+{
+  "var1_var2": {
+    "type": "variable",
+    "variable": "var1  var2",
+    "value": 1
+  },
+  "var3": {
+    "type": "variable",
+    "variable": "var3",
+    "value": 3
+  },
+  "var4": {
+    "type": "variable",
+    "variable": "var4",
+    "value": 4
+  },
+  "var5": {
+    "type": "variable",
+    "variable": "var5",
+    "value": 5
+  },
+  "var1  var2 + var3": {
+    "type": "result"
+  }
+}

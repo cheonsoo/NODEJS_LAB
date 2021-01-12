@@ -1,6 +1,26 @@
 <html>
   <head>
     <script>
+      const callEverest = async () => {
+        let data = [];
+        const url = 'http://10.52.221.123:8080/ui/prd/setPrdBase';
+        const payload = {};
+        try {
+          const res = await fetch(url, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(payload)
+          });
+          data = res.json();
+        } catch (e) {
+          console.log(e);
+        }
+
+        return data;
+      };
+
       const getPrdList = async () => {
         let data = [];
         const url = 'http://10.52.221.123:8080/ui/prd/popup/getPrdList';
@@ -115,8 +135,9 @@
         // const res = await getPrdList();
         // const res = await getCmmCodeList();
         // const res = await getEtcLrgShopList();
-        const res = await callLhoste();
+        // const res = await callLhoste();
         // const res = await callManaslu();
+        const res = await callEverest();
         console.log(res);
       };
 

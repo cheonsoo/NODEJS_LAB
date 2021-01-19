@@ -1,5 +1,8 @@
 const start = new Date().getTime();
 
+/*
+ * Big O: N^2
+ */
 function getZigZagMap(n) {
   // init 2 dimension arrays and set value as 0
   let map = [];
@@ -70,6 +73,6 @@ function solution(N, X, Y) {
 }
 
 // solution(5, 3, 2); // 9
-solution(5, 4, 5); // 29
+solution(10, 4, 5); // 29
 
 console.log(`### exe time: ${new Date().getTime() - start}`);

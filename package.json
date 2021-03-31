@@ -13,6 +13,7 @@
     "archiver": "^3.0.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "cron-converter": "0.0.12",
     "detect-character-encoding": "^0.8.0",
     "ejs": "^3.0.1",
@@ -28,6 +29,7 @@
     "puppeteer": "^1.20.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
+    "socket.io": "^4.0.0",
     "webpage": "^0.3.0"
   },
   "devDependencies": {

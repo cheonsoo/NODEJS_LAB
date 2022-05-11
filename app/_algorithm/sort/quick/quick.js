@@ -12,7 +12,8 @@ const quickSort = _arr => {
 const quick = arr => {
   if (arr.length <= 1) return arr;
 
-  let pivot = arr.shift(); // first element
+  // let pivot = arr.shift(); // first element
+  let pivot = arr.splice(arr.length / 2, 1); // middle element
 
   let left = [];
   let right = [];

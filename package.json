@@ -22,6 +22,7 @@
     "express-session": "^1.17.0",
     "getmac": "^5.11.0",
     "iconv-lite": "^0.5.1",
+    "jsonschema": "^1.4.0",
     "mathjs": "^8.0.1",
     "moment": "^2.24.0",
     "mongoose": "^5.8.1",

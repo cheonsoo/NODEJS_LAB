@@ -1,0 +1,53 @@
+<html>
+  <head></head>
+  <body style="margin: 0;">
+    <div class="test-div" style="width: 100%; height: 7000px; border: 0px solid red; overflow: auto;"></div>
+
+    <script type="text/javascript">
+      var timer = null;
+      // var target = window;
+      var target = window.body;
+      // var target = document.querySelectorAll(".test-div")[0];
+      // var target = document.querySelectorAll(".v--modal-overlay .v--modal-background-click")[0];
+      console.log(target);
+
+      function fn(evt) {
+        var target = window.document.body;
+        console.log("==================================================");
+        // console.log(evt);
+        // var target = document.querySelectorAll(".test-div")[0];
+        // var target = window.document.body;
+        console.log(`scrollHeight: ${target.scrollHeight}`);
+        console.log(`clientHeight: ${target.clientHeight}`);
+        // console.log(`innerHeight: ${target.innerHeight}`);
+        console.log(`clientHeight: ${target.clientHeight}`);
+        console.log(`pageYOffset: ${window.pageYOffset}`);
+        console.log(`scroll: ${target.scrollHeight - target.clientHeight}`);
+      }
+
+      function throttling(evt) {
+        if (timer)
+            clearTimeout(timer);
+
+        timer = setTimeout(function() {
+          // var target = window.document.body;
+          var target = document.querySelectorAll(".test-div")[0];
+          console.log("==================================================");
+          const innerHeight = window.innerHeight;
+          const scrollPoz = window.pageYOffset;
+          const totalHeight = target.clientHeight;
+          console.log(`scrollPoz: ${scrollPoz}`);
+
+          if (scrollPoz === 0) {
+            console.log("hit the top");
+          } else if (scrollPoz + innerHeight >= totalHeight) {
+            console.log("hit the bottom");
+          }
+
+        }, 300);
+      }
+
+      window.addEventListener("scroll", throttling, true);
+    </script>
+  </body>
+</html>

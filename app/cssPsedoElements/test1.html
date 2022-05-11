@@ -1,0 +1,32 @@
+<html>
+
+<style>
+  .comp {
+    width: 100%;
+    height: 200px;
+    border: 1px solid red;
+  }
+  .container {
+    width: 100%;
+    padding: 16px;
+  }
+  .container.line::after {
+    content: "";
+    border-bottom: 12px solid gray;
+    display: block;
+  }
+</style>
+<body>
+
+  <div>
+    <div class="comp container"></div>
+    <div class="comp container line">
+      <div>!!!!!</div>
+      <div>!!!!!</div>
+      <div>!!!!!</div>
+      <div>!!!!!</div>
+    </div>
+    <div class="comp container"></div>
+  </div>
+</body>
+</html>

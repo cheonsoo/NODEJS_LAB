@@ -1,0 +1,523 @@
+<html>
+  <head>
+    <script type="text/javascript">
+    function preview() {
+      const uiTemplate = [
+  {
+    "name": "CepInfo",
+    "classes": [],
+    "order": 0,
+    "toggle": 1,
+    "id": "CepInfo_0",
+    "comp_id": "CepInfo"
+  },
+  {
+    "name": "EmptyComponent",
+    "classes": [],
+    "style": "height: 15px",
+    "order": 1,
+    "toggle": 1,
+    "id": "EmptyComponent_1",
+    "comp_id": "EmptyComponent"
+  },
+  {
+    "name": "ProductTitle",
+    "classes": [
+      "module-lineType3"
+    ],
+    "style": "",
+    "order": 2,
+    "toggle": 1,
+    "id": "ProductTitle_2",
+    "comp_id": "ProductTitle"
+  },
+  {
+    "name": "ProductImage",
+    "order": 3,
+    "toggle": 1,
+    "id": "ProductImage_3",
+    "comp_id": "ProductImage"
+  },
+  {
+    "name": "ProductOption",
+    "classes": [
+      "module-lineType3"
+    ],
+    "order": 4,
+    "toggle": 1,
+    "id": "ProductOption_4",
+    "comp_id": "ProductOption"
+  },
+  {
+    "name": "ProductPrice",
+    "classes": [
+      "module-lineType3"
+    ],
+    "order": 5,
+    "toggle": 1,
+    "id": "ProductPrice_5",
+    "comp_id": "ProductPrice"
+  },
+  {
+    "name": "ProductDelivery",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 6,
+    "toggle": 1,
+    "id": "ProductDelivery_6",
+    "comp_id": "ProductDelivery"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "style": "border-bottom: 12px solid #f5f5f5;",
+    "order": 7,
+    "toggle": 1,
+    "id": "ComponentGap_7",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ExpiryDateInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 8,
+    "toggle": 1,
+    "id": "ExpiryDateInfo_8",
+    "comp_id": "ExpiryDateInfo"
+  },
+  {
+    "name": "ProductBenefit",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 9,
+    "toggle": 1,
+    "id": "ProductBenefit_9",
+    "comp_id": "ProductBenefit"
+  },
+  {
+    "name": "ProductGift",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 10,
+    "toggle": 1,
+    "id": "ProductGift_10",
+    "comp_id": "ProductGift"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 11,
+    "toggle": 1,
+    "id": "ComponentGap_11",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ProductAdditionalInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 12,
+    "toggle": 1,
+    "id": "ProductAdditionalInfo_12",
+    "comp_id": "ProductAdditionalInfo"
+  },
+  {
+    "name": "SaleStoreInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 13,
+    "toggle": 1,
+    "id": "SaleStoreInfo_13",
+    "comp_id": "SaleStoreInfo"
+  },
+  {
+    "name": "ProductStatus",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 14,
+    "toggle": 1,
+    "id": "ProductStatus_14",
+    "comp_id": "ProductStatus"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 15,
+    "toggle": 1,
+    "id": "ComponentGap_15",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ProductSellerInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 16,
+    "toggle": 1,
+    "id": "ProductSellerInfo_16",
+    "comp_id": "ProductSellerInfo"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 17,
+    "toggle": 1,
+    "id": "ComponentGap_17",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ProductAttributeInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 18,
+    "toggle": 1,
+    "id": "ProductAttributeInfo_18",
+    "comp_id": "ProductAttributeInfo"
+  },
+  {
+    "name": "AdvertisementProduct",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 19,
+    "toggle": 1,
+    "id": "AdvertisementProduct_19",
+    "comp_id": "AdvertisementProduct"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 20,
+    "toggle": 1,
+    "id": "ComponentGap_20",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ProductBannerForEvent",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 21,
+    "toggle": 1,
+    "id": "ProductBannerForEvent_21",
+    "comp_id": "ProductBannerForEvent"
+  },
+  {
+    "name": "JntBanner",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 22,
+    "toggle": 1,
+    "id": "JntBanner_22",
+    "comp_id": "JntBanner"
+  },
+  {
+    "name": "BannerCouponExpedition",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 23,
+    "toggle": 1,
+    "id": "BannerCouponExpedition_23",
+    "comp_id": "BannerCouponExpedition"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 24,
+    "toggle": 1,
+    "id": "ComponentGap_24",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "StickyTab",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 25,
+    "toggle": 1,
+    "id": "StickyTab_25",
+    "comp_id": "StickyTab"
+  },
+  {
+    "name": "BannerFraudPrevention",
+    "classes": [],
+    "order": 26,
+    "toggle": 1,
+    "id": "BannerFraudPrevention_26",
+    "comp_id": "BannerFraudPrevention"
+  },
+  {
+    "name": "ProductDetailInfo",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 27,
+    "toggle": 1,
+    "id": "ProductDetailInfo_27",
+    "comp_id": "ProductDetailInfo"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 28,
+    "toggle": 1,
+    "id": "ComponentGap_28",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ReviewSummary",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 29,
+    "toggle": 1,
+    "id": "ReviewSummary_29",
+    "comp_id": "ReviewSummary"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 30,
+    "toggle": 1,
+    "id": "ComponentGap_30",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "QnaSummary",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 31,
+    "toggle": 1,
+    "id": "QnaSummary_31",
+    "comp_id": "QnaSummary"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 32,
+    "toggle": 1,
+    "id": "ComponentGap_32",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ShippingPolicyCommonPd",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 33,
+    "toggle": 1,
+    "id": "ShippingPolicyCommonPd_33",
+    "comp_id": "ShippingPolicyCommonPd"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 34,
+    "toggle": 1,
+    "id": "ComponentGap_34",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "ProductRecommendNodata",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 35,
+    "toggle": 1,
+    "id": "ProductRecommendNodata_35",
+    "comp_id": "ProductRecommendNodata"
+  },
+  {
+    "name": "ProductRecommend",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 36,
+    "toggle": 1,
+    "id": "ProductRecommend_36",
+    "comp_id": "ProductRecommend"
+  },
+  {
+    "name": "RecommendKeywordList",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 37,
+    "toggle": 1,
+    "id": "RecommendKeywordList_37",
+    "comp_id": "RecommendKeywordList"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 38,
+    "toggle": 1,
+    "id": "ComponentGap_38",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "InsrAdvertisement",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 39,
+    "toggle": 1,
+    "id": "InsrAdvertisement_39",
+    "comp_id": "InsrAdvertisement"
+  },
+  {
+    "name": "ComponentGap",
+    "classes": [
+      "module-lineType1"
+    ],
+    "order": 40,
+    "toggle": 1,
+    "id": "ComponentGap_40",
+    "comp_id": "ComponentGap"
+  },
+  {
+    "name": "StyleRecommendedItems",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 41,
+    "toggle": 1,
+    "id": "StyleRecommendedItems_41",
+    "comp_id": "StyleRecommendedItems"
+  },
+  {
+    "name": "RecommendRecipe",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 42,
+    "toggle": 1,
+    "id": "RecommendRecipe_42",
+    "comp_id": "RecommendRecipe"
+  },
+  {
+    "name": "CategoryProduct",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 43,
+    "toggle": 1,
+    "id": "CategoryProduct_43",
+    "comp_id": "CategoryProduct"
+  },
+  {
+    "name": "RelativePromotion",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 44,
+    "toggle": 1,
+    "id": "RelativePromotion_44",
+    "comp_id": "RelativePromotion"
+  },
+  {
+    "name": "BestProductList",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 45,
+    "toggle": 1,
+    "id": "BestProductList_45",
+    "comp_id": "BestProductList"
+  },
+  {
+    "name": "SellerRecommend",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 46,
+    "toggle": 1,
+    "id": "SellerRecommend_46",
+    "comp_id": "SellerRecommend"
+  },
+  {
+    "name": "AdvertisementProductList",
+    "classes": [
+      "module-lineType2"
+    ],
+    "order": 47,
+    "toggle": 1,
+    "id": "AdvertisementProductList_47",
+    "comp_id": "AdvertisementProductList"
+  },
+  {
+    "name": "EmptyComponent",
+    "classes": [],
+    "style": "height: 50px",
+    "order": 48,
+    "toggle": 1,
+    "id": "EmptyComponent_48",
+    "comp_id": "EmptyComponent"
+  }
+];
+      console.log("uiTemplate");
+      console.log(uiTemplate);
+      // const url = 'https://test.lotteon.com/m/product/webview/previewModule/LF1005273';
+      const url = 'https://stg.lotteon.com/m/product/webview/previewModule/LF1005273';
+      const form = document.createElement('form');
+      form.setAttribute('method', 'post');
+      form.setAttribute('action', url);
+      form.setAttribute('target', this.form2);
+
+      console.log('### uiTemplate');
+      console.log(this.form);
+
+      const input = document.createElement('input');
+      input.type = 'hidden';
+      input.id = 'uiTemplate';
+      input.name = 'uiTemplate';
+      input.value = JSON.stringify(uiTemplate);
+      form.appendChild(input);
+
+      document.body.appendChild(form);
+
+      form.submit();
+    }
+    </script>
+  </head>
+  <body>
+    <div>
+      <form>
+        <input type="hidden" value="" />
+        <input type="button" value="Preview" onClick="preview()" />
+      </form>
+    </div>
+  </body>
+</html>

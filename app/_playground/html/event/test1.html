@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <script type="text/javascript">
+      function handleClickAnchor(evt) {
+        console.log("test");
+        evt.preventDefault();
+        console.log("test2");
+      }
+
+      // window.onload = () => {
+      //   console.log("onload");
+      //   document.querySelector('a').addEventListener('click', function(event) {
+      //     console.log('click!!!');
+      //     event.preventDefault();
+      //   });
+      // }
+    </script>
+  </head>
+  <body>
+    <div>
+      <!-- <a href="http://google.com">click</a> -->
+      <a href="http://google.com" onclick="handleClickAnchor(event)">click</a>
+    </div>
+  </body>
+</html>

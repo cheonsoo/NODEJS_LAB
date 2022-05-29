@@ -1,9 +1,17 @@
-var var1 = 'var1';
-function fn1() {
-  console.log(var1);
-}
-const fn2 = () => {
-  console.log(this.var1);
+const obj = {
+  a: '1',
+  b: '2',
+  c: {
+    d: '4'
+  }
 };
-fn1();
-fn2();
+
+// const obj2 = Object.assign({}, obj);
+const obj2 = { ...obj };
+
+obj2.c.d = '2';
+
+console.log(obj.c.d);
+console.log(obj2.c.d);
+
+console.log(obj.c.d === obj2.c.d);

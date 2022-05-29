@@ -17,7 +17,7 @@ function factorial(i) {
   return fact(i);
 }
 
-// console.log(factorial(10000));
-console.log(factorial(5));
+console.log(factorial(50));
+// console.log(factorial(5));
 
 console.log(`exe time : ${new Date().getTime() - start}`);

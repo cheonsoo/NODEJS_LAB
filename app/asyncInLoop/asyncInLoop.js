@@ -26,13 +26,13 @@ async function run() {
   // const val = await delay();
   // for (const i of [1,2,3,4,5]) {
   for (let i = 0; i < 3; i++) {
-    console.log(1);
+    // console.log(1);
     const res = await getData(i);
-    console.log(2);
+    // console.log(2);
     const res2 = await getData(i);
-    console.log(3);
+    // console.log(3);
     await delay(i);
-    console.log(4);
+    // console.log(4);
 
     // console.log(`waited : ${res}`);
   }

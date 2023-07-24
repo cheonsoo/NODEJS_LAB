@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .wraps {
+      height: 500vh;
+      background: black;
+    }
+
+    .box {
+      position: fixed;
+      top: 100px;
+      left: 0;
+      width: 0;
+      height: 100px;
+      background: white;
+    }
+
+    .smoothBox {
+      position: fixed;
+      left: 0;
+      top: 300px;
+      width: 0;
+      height: 200px;
+      background: hotpink;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wraps">
+    <div class="box">
+
+    </div>
+    <div class="smoothBox">
+
+    </div>
+  </div>
+
+  <script>
+    const box = document.querySelector('.box');
+    const smoothBox = document.querySelector('.smoothBox');
+    const accelearation = 0.1;
+
+    let delay = 0;
+    let requestAnimationId;
+    let animState;
+    let approx;
+
+    const anim = () => {
+      delay = delay + (pageYOffset - delay) * accelearation;
+      smoothBox.style.width = `${delay}px`;
+      requestAnimationId = requestAnimationFrame(anim);
+      approx = Math.abs(pageYOffset - delay) < 1;
+
+      if (!approx) return;
+
+      cancelAnimationFrame(requestAnimationId);
+      animState = false;
+    };
+
+    anim();
+
+    window.addEventListener('scroll', () => {
+      box.style.width = `${window.pageYOffset}px`;
+      if (animState) return;
+
+      requestAnimationId = requestAnimationFrame(anim);
+      animState = true;
+    });
+
+  </script>
+</body>
+
+</html>

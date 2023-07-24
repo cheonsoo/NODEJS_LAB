@@ -1,0 +1,120 @@
+<!-- https://web.dev/drag-and-drop/ -->
+<!DOCTYPE html>
+<html lane="en">
+
+<head>
+  <style>
+    body {
+      width: 100vw;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    .app {
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .container {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .box {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      top: 0;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      transition: transform 1s ease-in-out;
+    }
+
+    .item {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: gray;
+      font-size: 40rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="app">
+    <div class="container">
+      <div class="box">
+        <div class="item">❓</div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <script type="text/javascript">
+    const box = document.querySelector(".box");
+    let data = ['🍭', '❌', '⛄️', '🦄', '🍌', '💩', '👻', '😻', '💵', '🦖', '🍎', '😂', '🖕', '🤡'];
+    const itemHeight = document.body.clientHeight;
+
+    // Initialize start button
+    box.addEventListener("click", roll);
+
+    function init() {
+      box.style.transitionDuration = `0s`;
+      box.style.transform = `translateY(-${itemHeight * (data.length - 1)}px)`;
+
+      box.innerHTML = "";
+
+      let shuffled = shuffle(data);
+      shuffled = shuffled.concat(shuffled);
+
+      shuffled.forEach(val => {
+        const itemElement = document.createElement("div");
+        itemElement.className = "item";
+        itemElement.innerHTML = val;
+        box.append(itemElement);
+      });
+
+      // Initialize transition events
+      box.addEventListener("transitionstart", function() {
+        document.querySelectorAll('.item').forEach((item, index) => (item.style.filter = 'blur(1px)'));
+      }, {
+        once: true
+      });
+      box.addEventListener("transitionend", function() {
+        document.querySelectorAll('.item').forEach((item, index) => (item.style.filter = 'blur(0)'));
+      }, {
+        once: true
+      });
+    }
+
+    function shuffle([...arr]) {
+      let m = arr.length;
+      while (m) {
+        const i = Math.floor(Math.random() * m--);
+        [arr[m], arr[i]] = [arr[i], arr[m]];
+      }
+      return arr;
+    }
+
+    function roll() {
+      init();
+
+      setTimeout(function() {
+        box.style.transitionDuration = `2s`;
+        box.style.transform = `translateY(0)`;
+      }, 100);
+    }
+  </script>
+</body>
+
+</html>

@@ -1,4 +1,4 @@
-const util = require('../../util/util');
+const util = require('../../utils/util');
 
 const numToRunAtOnce = 5;
 const numToRun = 3;
@@ -13,7 +13,7 @@ async function run() {
   console.log('start ...');
 
   const fnArr = [];
-  for (let i=0; i<numToRunAtOnce; i++  ) {
+  for (let i = 0; i < numToRunAtOnce; i++) {
     fnArr.push(util.delay());
   }
 

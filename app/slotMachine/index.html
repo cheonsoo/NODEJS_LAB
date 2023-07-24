@@ -1,0 +1,45 @@
+<!-- https://web.dev/drag-and-drop/ -->
+<!DOCTYPE html>
+<html lane="en">
+
+<head>
+  <style>
+    .box {
+      width: 100px;
+      height: 50px;
+      border: 1px solid red;
+    }
+
+    .move {
+      border: 1px solid green;
+      animation-name: moveBox;
+    }
+
+    @keyframes moveBox {
+      0% {
+        transform: translateY(0);
+      }
+
+      100% {
+        transform: translateY(100);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+
+  </div>
+
+  <div onClick="move()">button</div>
+
+  <script type="text/javascript">
+    function move() {
+      console.log("move");
+      document.querySelector(".box").className = document.querySelector(".box").className + " move";
+    }
+  </script>
+</body>
+
+</html>

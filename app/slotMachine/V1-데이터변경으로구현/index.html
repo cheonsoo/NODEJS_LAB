@@ -1,0 +1,147 @@
+<!-- https://web.dev/drag-and-drop/ -->
+<!DOCTYPE html>
+<html lane="en">
+
+<head>
+  <style>
+    .container {
+      width: 100px;
+      height: 150px;
+      border: 3px solid gray;
+    }
+
+    .box {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      top: 0;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .box>li {
+      width: 100%;
+      height: 50px;
+      background-color: gray;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .box>li:nth-child(2n-1) {
+      background-color: #fff;
+    }
+
+    .box>li:nth-child(n+4) {
+      display: none;
+    }
+
+    .move {
+      border: 1px solid green;
+      animation-name: moveBox;
+    }
+
+    @keyframes moveBox {
+      0% {
+        transform: translateY(0);
+      }
+
+      100% {
+        transform: translateY(100);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div onClick="move()">button</div>
+
+  <div class="container">
+    <ul class="box">
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+
+
+
+  <script type="text/javascript">
+    const data = ['🍭', '❌', '⛄️', '🦄', '🍌', '💩', '👻', '😻', '💵', '🤡'];
+    // const data = ['🍭', '❌', '⛄️', '🦄', '🍌', '💩', '👻', '😻', '💵', '🤡', '🦖', '🍎', '😂', '🖕'];
+    const slotWidth = 100;
+    const slotHeight = 50;
+    const box = document.querySelector(".box");
+    const lis = box.querySelectorAll("li");
+    console.log(lis);
+
+    function Slots(data) {
+      let _slots = [];
+      if (data) _slots = data;
+
+      this.switch = () => {
+        const last = _slots.pop();
+        _slots.unshift(last);
+        this.render();
+      }
+      this.render = () => {
+        lis.forEach((li, idx) => {
+          li.innerHTML = _slots[idx];
+        });
+      }
+    }
+
+    const slots = new Slots(data);
+    slots.render();
+
+    function move() {
+      function delay(timeToWait) {
+        const promise = new Promise((resolve, reject) => {
+          setTimeout(function() {
+            // console.log(`${timeToWait} delayed ...`);
+            resolve(true);
+          }, timeToWait);
+        });
+        return promise;
+      }
+
+      const LIMIT = 300;
+      let DELAY = 0;
+      let GAP = 15;
+      let direction = "up";
+      async function roll() {
+        if (direction === "down" && DELAY < LIMIT * 0.9) {
+          return;
+        }
+
+        slots.switch();
+
+        if (DELAY > LIMIT) {
+          direction = "down";
+        }
+
+        if (direction === "up") {
+          DELAY += GAP;
+        } else {
+          DELAY -= GAP / 2;
+        }
+
+        await delay(DELAY);
+
+        roll();
+      }
+
+      roll();
+    }
+  </script>
+</body>
+
+</html>

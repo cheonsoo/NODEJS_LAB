@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+</head>
+
+<body>
+  <input type="button" id="btn" value="click" />
+
+  <script type="text/javascript">
+    const btn = document.querySelector("#btn");
+    btn.addEventListener("click", function() {
+      Promise.resolve().then(() => console.log('Microtask 1'));
+      console.log('Listener 1');
+    });
+    btn.addEventListener("click", function() {
+      Promise.resolve().then(() => console.log('Microtask 1'));
+      console.log('Listener 1');
+    });
+
+    btn.click();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+    .spinner-container {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .spinner {
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      transform: rotate(0);
+      /* transition: 1s ease-in-out; */
+      clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+      /* animation: rotateIcon 1s linear infinite; */
+      animation: rotateIcon 1s ease infinite;
+    }
+
+    @keyframes rotateIcon {
+      from {
+        transform: rotate(0deg);
+      }
+
+      to {
+        transform: rotate(270deg);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <input type="button" class="btn" value="click" />
+    <input type="button" class="cancelBtn" value="calcel" />
+  </div>
+
+  <div class="spinner-container">
+    <div class="spinner"></div>
+  </div>
+
+  <script type="text/javascript">
+    const btn = document.querySelector(".btn");
+    const cancelBtn = document.querySelector(".cancelBtn");
+    const box = document.querySelector(".box");
+    btn.addEventListener("click", function() {
+      // Promise.resolve().then(() => console.log('Microtask 1'));
+      // console.log('Listener 1');
+      // box.style.transform = 'translateY(1000px)';
+      move();
+    });
+    cancelBtn.addEventListener("click", function() {
+      cancelAnimationFrame(rAFId);
+    });
+    let rAFId = null;
+    let pozY = 0;
+    function move() {
+      pozY += 10;
+      box.style.transform = `translateY(${pozY}px)`;
+      rAFId = requestAnimationFrame(move);
+    }
+  </script>
+</body>
+
+</html>

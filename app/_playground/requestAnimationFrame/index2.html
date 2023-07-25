@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      transform: translateY(0px);
+      transition: 1s ease-in-out;
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <input type="button" class="btn" value="click" />
+    <input type="button" class="cancelBtn" value="calcel" />
+  </div>
+
+  <div class="box"></div>
+
+  <script type="text/javascript">
+    const btn = document.querySelector(".btn");
+    const cancelBtn = document.querySelector(".cancelBtn");
+    const box = document.querySelector(".box");
+    btn.addEventListener("click", function() {
+      // Promise.resolve().then(() => console.log('Microtask 1'));
+      // console.log('Listener 1');
+      // box.style.transform = 'translateY(1000px)';
+      move();
+    });
+    cancelBtn.addEventListener("click", function() {
+      cancelAnimationFrame(rAFId);
+    });
+    let rAFId = null;
+    let pozY = 0;
+    function move() {
+      pozY += 10;
+      box.style.transform = `translateY(${pozY}px)`;
+      rAFId = requestAnimationFrame(move);
+    }
+  </script>
+</body>
+
+</html>
